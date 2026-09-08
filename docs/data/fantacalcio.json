@@ -1,7 +1,7 @@
 {
   "league_name": "AC Denti League",
   "current_season_id": 6,
-  "generated_at": "2026-09-08T18:08:41",
+  "generated_at": "2026-09-08T18:19:23",
   "seasons": [
     {
       "id": 6,
@@ -194,7 +194,7 @@
         {
           "id": 1,
           "name": "Extraction Team",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_1.png",
           "coach": "Francesco",
           "roster": [
             {
@@ -926,7 +926,7 @@
         {
           "id": 3,
           "name": "Old Towers",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_3.png",
           "coach": "Lorenzo",
           "roster": [
             {
@@ -1285,7 +1285,7 @@
         {
           "id": 10,
           "name": "Pescaramanzia",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_10.png",
           "coach": "Silvia",
           "roster": [
             {
@@ -2218,7 +2218,7 @@
         {
           "team_id": 1,
           "name": "Extraction Team",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_1.png",
           "coach": "Francesco",
           "played": 0,
           "wins": 0,
@@ -2278,7 +2278,7 @@
         {
           "team_id": 3,
           "name": "Old Towers",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_3.png",
           "coach": "Lorenzo",
           "played": 0,
           "wins": 0,
@@ -2308,7 +2308,7 @@
         {
           "team_id": 10,
           "name": "Pescaramanzia",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_10.png",
           "coach": "Silvia",
           "played": 0,
           "wins": 0,
@@ -2471,7 +2471,7 @@
         {
           "id": 3,
           "name": "Old Towers",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_3.png",
           "coach": "Lorenzo",
           "roster": []
         }
@@ -2481,7 +2481,7 @@
         {
           "team_id": 3,
           "name": "Old Towers",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_3.png",
           "coach": "Lorenzo",
           "played": 0,
           "wins": 0,
@@ -2500,7 +2500,7 @@
         "team_id": 3,
         "coach_name": "Lorenzo",
         "team_name": "Old Towers",
-        "logo": "assets/logos/default-logo.svg"
+        "logo": "assets/logos/team_6_3.png"
       }
     },
     {
@@ -2551,7 +2551,7 @@
         {
           "id": 1,
           "name": "Extraction Team",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_1.png",
           "coach": "Francesco",
           "roster": []
         }
@@ -2561,7 +2561,7 @@
         {
           "team_id": 1,
           "name": "Extraction Team",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_1.png",
           "coach": "Francesco",
           "played": 0,
           "wins": 0,
@@ -2580,7 +2580,7 @@
         "team_id": 1,
         "coach_name": "Francesco",
         "team_name": "Extraction Team",
-        "logo": "assets/logos/default-logo.svg"
+        "logo": "assets/logos/team_6_1.png"
       }
     }
   ],
@@ -2606,7 +2606,7 @@
       "season_name": "2023/2024",
       "team_id": 3,
       "team_name": "Old Towers",
-      "logo": "assets/logos/default-logo.svg",
+      "logo": "assets/logos/team_6_3.png",
       "coach_name": "Lorenzo"
     },
     {
@@ -2622,7 +2622,7 @@
       "season_name": "2020/2021",
       "team_id": 1,
       "team_name": "Extraction Team",
-      "logo": "assets/logos/default-logo.svg",
+      "logo": "assets/logos/team_6_1.png",
       "coach_name": "Francesco"
     }
   ],
@@ -2642,13 +2642,13 @@
     {
       "team_id": 1,
       "name": "Extraction Team",
-      "logo": "assets/logos/default-logo.svg",
+      "logo": "assets/logos/team_6_1.png",
       "titles": 1
     },
     {
       "team_id": 3,
       "name": "Old Towers",
-      "logo": "assets/logos/default-logo.svg",
+      "logo": "assets/logos/team_6_3.png",
       "titles": 1
     }
   ]
