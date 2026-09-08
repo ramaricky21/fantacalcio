@@ -1,7 +1,7 @@
 {
   "league_name": "AC Denti League",
   "current_season_id": 6,
-  "generated_at": "2026-09-08T18:03:26",
+  "generated_at": "2026-09-08T18:08:41",
   "seasons": [
     {
       "id": 6,
@@ -11,7 +11,7 @@
         {
           "id": 5,
           "name": "Atletico ma non troppo",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_5.png",
           "coach": "Matteo",
           "roster": [
             {
@@ -560,7 +560,7 @@
         {
           "id": 8,
           "name": "Invisibili",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_8.jpeg",
           "coach": "Giuseppe",
           "roster": [
             {
@@ -1109,7 +1109,7 @@
         {
           "id": 9,
           "name": "Palermithanos",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_9.png",
           "coach": "Marco",
           "roster": [
             {
@@ -1651,7 +1651,7 @@
         {
           "id": 11,
           "name": "Temptation Haaland",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_11.jpeg",
           "coach": "Claudio",
           "roster": [
             {
@@ -2203,7 +2203,7 @@
         {
           "team_id": 5,
           "name": "Atletico ma non troppo",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_5.png",
           "coach": "Matteo",
           "played": 0,
           "wins": 0,
@@ -2248,7 +2248,7 @@
         {
           "team_id": 8,
           "name": "Invisibili",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_8.jpeg",
           "coach": "Giuseppe",
           "played": 0,
           "wins": 0,
@@ -2293,7 +2293,7 @@
         {
           "team_id": 9,
           "name": "Palermithanos",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_9.png",
           "coach": "Marco",
           "played": 0,
           "wins": 0,
@@ -2338,7 +2338,7 @@
         {
           "team_id": 11,
           "name": "Temptation Haaland",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_11.jpeg",
           "coach": "Claudio",
           "played": 0,
           "wins": 0,
