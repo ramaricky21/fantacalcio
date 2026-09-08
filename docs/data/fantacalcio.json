@@ -1,7 +1,7 @@
 {
   "league_name": "AC Denti League",
   "current_season_id": 6,
-  "generated_at": "2026-09-08T17:37:44",
+  "generated_at": "2026-09-08T18:03:26",
   "seasons": [
     {
       "id": 6,
@@ -377,7 +377,7 @@
         {
           "id": 7,
           "name": "Hellas Madonna",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_7.jpeg",
           "coach": "Andrea",
           "roster": [
             {
@@ -743,7 +743,7 @@
         {
           "id": 4,
           "name": "New Team",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_4.jpeg",
           "coach": "Federico",
           "roster": [
             {
@@ -1468,7 +1468,7 @@
         {
           "id": 6,
           "name": "Sporting Lisbronzi",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_6.jpeg",
           "coach": "Riccardo",
           "roster": [
             {
@@ -1834,7 +1834,7 @@
         {
           "id": 12,
           "name": "Tibia e peroni",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_12.jpeg",
           "coach": "Yurghi",
           "roster": [
             {
@@ -2017,7 +2017,7 @@
         {
           "id": 13,
           "name": "Yildiz-Astro",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_13.jpeg",
           "coach": "Luca",
           "roster": [
             {
@@ -2233,7 +2233,7 @@
         {
           "team_id": 7,
           "name": "Hellas Madonna",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_7.jpeg",
           "coach": "Andrea",
           "played": 0,
           "wins": 0,
@@ -2263,7 +2263,7 @@
         {
           "team_id": 4,
           "name": "New Team",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_4.jpeg",
           "coach": "Federico",
           "played": 0,
           "wins": 0,
@@ -2323,7 +2323,7 @@
         {
           "team_id": 6,
           "name": "Sporting Lisbronzi",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_6.jpeg",
           "coach": "Riccardo",
           "played": 0,
           "wins": 0,
@@ -2353,7 +2353,7 @@
         {
           "team_id": 12,
           "name": "Tibia e peroni",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_12.jpeg",
           "coach": "Yurghi",
           "played": 0,
           "wins": 0,
@@ -2368,7 +2368,7 @@
         {
           "team_id": 13,
           "name": "Yildiz-Astro",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_13.jpeg",
           "coach": "Luca",
           "played": 0,
           "wins": 0,
@@ -2391,7 +2391,7 @@
         {
           "id": 4,
           "name": "New Team",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_4.jpeg",
           "coach": "Federico",
           "roster": []
         }
@@ -2401,7 +2401,7 @@
         {
           "team_id": 4,
           "name": "New Team",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_4.jpeg",
           "coach": "Federico",
           "played": 0,
           "wins": 0,
@@ -2420,7 +2420,7 @@
         "team_id": 4,
         "coach_name": "Federico",
         "team_name": "New Team",
-        "logo": "assets/logos/default-logo.svg"
+        "logo": "assets/logos/team_6_4.jpeg"
       }
     },
     {
@@ -2431,7 +2431,7 @@
         {
           "id": 4,
           "name": "New Team",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_4.jpeg",
           "coach": "Federico",
           "roster": []
         }
@@ -2441,7 +2441,7 @@
         {
           "team_id": 4,
           "name": "New Team",
-          "logo": "assets/logos/default-logo.svg",
+          "logo": "assets/logos/team_6_4.jpeg",
           "coach": "Federico",
           "played": 0,
           "wins": 0,
@@ -2460,7 +2460,7 @@
         "team_id": 4,
         "coach_name": "Federico",
         "team_name": "New Team",
-        "logo": "assets/logos/default-logo.svg"
+        "logo": "assets/logos/team_6_4.jpeg"
       }
     },
     {
@@ -2590,7 +2590,7 @@
       "season_name": "2025/2026",
       "team_id": 4,
       "team_name": "New Team",
-      "logo": "assets/logos/default-logo.svg",
+      "logo": "assets/logos/team_6_4.jpeg",
       "coach_name": "Federico"
     },
     {
@@ -2598,7 +2598,7 @@
       "season_name": "2024/2025",
       "team_id": 4,
       "team_name": "New Team",
-      "logo": "assets/logos/default-logo.svg",
+      "logo": "assets/logos/team_6_4.jpeg",
       "coach_name": "Federico"
     },
     {
@@ -2630,7 +2630,7 @@
     {
       "team_id": 4,
       "name": "New Team",
-      "logo": "assets/logos/default-logo.svg",
+      "logo": "assets/logos/team_6_4.jpeg",
       "titles": 2
     },
     {
