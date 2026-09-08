@@ -1,0 +1,369 @@
+FANTACALCIO WEBAPP - GUIDA PASSO PASSO
+======================================
+
+OBIETTIVO
+---------
+Questo progetto è composto da due parti:
+
+1) GESTIONALE LOCALE
+   - gira soltanto sul tuo PC;
+   - è scritto in Python;
+   - usa SQLite (db.sqlite3);
+   - permette a te di inserire i dati.
+
+2) SITO PUBBLICO
+   - si trova nella cartella "docs";
+   - viene pubblicato con GitHub Pages;
+   - continua a funzionare quando il tuo PC è spento;
+   - gli amici possono soltanto consultarlo.
+
+Non mettere password o dati privati nel sito pubblico.
+
+
+FASE 1 - COSA INSTALLARE
+------------------------
+Se Spyder e Python funzionano già sul tuo PC, NON devi installare librerie Python:
+il progetto usa soltanto moduli inclusi normalmente in Python.
+
+Per la pubblicazione automatica devi installare anche Git:
+https://git-scm.com/download/win
+
+Git è software libero/gratuito.
+
+Dopo l'installazione di Git, riavvia Spyder e il Prompt/Terminale.
+
+
+FASE 2 - DOVE METTERE LA CARTELLA
+---------------------------------
+Estrai "fantacalcio_webapp.zip" in una posizione semplice, ad esempio:
+
+C:\Fantacalcio\fantacalcio_webapp\
+
+Dentro devi vedere:
+
+app.py
+database.py
+exporter.py
+backup_manager.py
+publisher.py
+GUIDA_PASSO_PASSO.txt
+docs\
+backups\
+
+
+FASE 3 - PRIMO AVVIO
+--------------------
+METODO FACILE SU WINDOWS:
+fai doppio clic su:
+
+AVVIA_GESTIONALE.bat
+
+OPPURE DA SPYDER:
+1. Apri Spyder.
+2. Apri il file app.py.
+3. Imposta come directory di lavoro la cartella del progetto.
+4. Premi "Run file".
+
+Al primo avvio viene creato automaticamente:
+db.sqlite3
+
+Non devi crearlo tu.
+
+
+FASE 4 - ORDINE CORRETTO PER INSERIRE I DATI
+---------------------------------------------
+Nel gestionale usa questo ordine:
+
+1. CONFIGURAZIONE
+   Scrivi il nome della lega.
+
+2. STAGIONI
+   Crea per esempio:
+   2026/2027
+
+3. CONFIGURAZIONE
+   Seleziona 2026/2027 come stagione corrente.
+
+4. SQUADRE
+   Per ogni squadra:
+   - seleziona stagione;
+   - scrivi nome squadra;
+   - scrivi fantallenatore;
+   - scegli lo stemma;
+   - premi "Salva squadra".
+
+5. ROSE
+   Per ogni giocatore:
+   - stagione;
+   - squadra;
+   - nome giocatore;
+   - ruolo P/D/C/A;
+   - Aggiungi.
+
+6. PARTITE
+   Inserisci:
+   - stagione;
+   - giornata;
+   - data (facoltativa);
+   - casa;
+   - trasferta;
+   - risultato fantacalcio.
+
+   IMPORTANTE:
+   il risultato della partita è indipendente dal numero dei gol dei giocatori.
+   Il programma NON obbliga i due dati a coincidere.
+
+7. GOL / ASSIST
+   - seleziona stagione;
+   - seleziona partita;
+   - seleziona una delle due squadre;
+   - seleziona giocatore;
+   - inserisci gol e assist;
+   - "Salva / aggiorna".
+
+   Se sbagli, seleziona di nuovo lo stesso giocatore nella stessa partita
+   e salva i valori corretti: vengono aggiornati.
+
+8. ALBO D'ORO
+   A fine stagione:
+   - scegli stagione;
+   - squadra vincitrice;
+   - fantallenatore;
+   - salva vincitore.
+
+   Il palmarès storico viene calcolato automaticamente.
+
+
+FASE 5 - COSA CALCOLA AUTOMATICAMENTE
+-------------------------------------
+La classifica generale usa:
+Vittoria = 3 punti
+Pareggio = 1 punto
+Sconfitta = 0 punti
+
+Ordinamento:
+1. punti
+2. maggior numero di gol fatti
+3. miglior differenza reti
+4. nome squadra (solo come ultimo criterio tecnico per rendere stabile l'ordine)
+
+Calcola automaticamente:
+- PG
+- V
+- N
+- P
+- GF
+- GS
+- DR
+- punti
+- classifica marcatori per squadra
+- classifica assistman per squadra
+- storico partite
+- albo d'oro
+- palmarès storico
+
+
+FASE 6 - ANTEPRIMA SUL TUO PC
+------------------------------
+Nel gestionale premi:
+"Anteprima locale"
+
+Si aprirà:
+http://127.0.0.1:8000/
+
+Questa anteprima funziona mentre il tuo PC è acceso.
+Serve soltanto a controllare il sito prima di pubblicarlo.
+
+
+FASE 7 - BACKUP ROTATIVO
+------------------------
+Il programma mantiene massimo DUE backup:
+
+backups\backup_1.zip
+backups\backup_2.zip
+
+Quando entrambi esistono, il nuovo backup sovrascrive quello più vecchio.
+Avrai quindi sempre:
+- backup più recente;
+- backup immediatamente precedente.
+
+Il backup contiene:
+- db.sqlite3
+- stemmi
+
+Nel tab "Backup" puoi vedere data e dimensione e puoi ripristinare
+uno dei due file.
+
+
+FASE 8 - CREARE L'ACCOUNT GITHUB
+--------------------------------
+Vai su:
+https://github.com/
+
+Crea un account gratuito, se non lo possiedi già.
+
+Per GitHub Free, GitHub Pages può essere pubblicato da repository pubblici.
+Per questo progetto è corretto: sul repository metteremo solo ciò che deve
+essere visibile sul sito.
+
+NON verranno pubblicati:
+- db.sqlite3
+- cartella backups
+
+Sono esclusi dal file .gitignore.
+
+
+FASE 9 - CREARE IL REPOSITORY GITHUB
+------------------------------------
+Su GitHub:
+1. premi "+" in alto;
+2. "New repository";
+3. nome consigliato: fantacalcio
+4. scegli "Public";
+5. NON aggiungere README, .gitignore o licenza durante la creazione;
+6. premi "Create repository".
+
+GitHub ti mostrerà l'indirizzo del repository, ad esempio:
+https://github.com/TUO_USERNAME/fantacalcio.git
+
+
+FASE 10 - COLLEGARE UNA SOLA VOLTA IL PROGETTO A GITHUB
+--------------------------------------------------------
+Apri "Anaconda Prompt", "Prompt dei comandi", PowerShell o Git Bash.
+
+Vai nella cartella del progetto. Esempio:
+
+cd C:\Fantacalcio\fantacalcio_webapp
+
+Poi esegui, UNA RIGA ALLA VOLTA:
+
+git init
+git add .
+git commit -m "Prima versione fantacalcio"
+git branch -M main
+git remote add origin https://github.com/TUO_USERNAME/fantacalcio.git
+git push -u origin main
+
+Sostituisci TUO_USERNAME con il tuo vero username.
+
+Se Git chiede di identificarti, esegui:
+
+git config --global user.name "TUO NOME"
+git config --global user.email "TUA_EMAIL_GITHUB"
+
+poi ripeti commit/push.
+
+Alla prima autenticazione Git può aprire il browser: accedi al tuo account GitHub
+e autorizza Git Credential Manager.
+
+
+FASE 11 - ATTIVARE GITHUB PAGES
+--------------------------------
+Sul repository GitHub:
+
+1. Settings
+2. Pages
+3. sotto "Build and deployment":
+   Source -> Deploy from a branch
+4. Branch -> main
+5. Cartella -> /docs
+6. Save
+
+GitHub pubblicherà il contenuto della cartella docs.
+
+Il link sarà normalmente simile a:
+
+https://TUO_USERNAME.github.io/fantacalcio/
+
+
+FASE 12 - USO NORMALE DURANTE L'ANNO
+------------------------------------
+Dopo la configurazione iniziale, il tuo lavoro settimanale sarà:
+
+1. accendi il PC;
+2. apri AVVIA_GESTIONALE.bat;
+3. inserisci risultati / gol / assist / rose;
+4. premi "SALVA E PUBBLICA";
+5. il programma:
+   A) salva i dati SQLite;
+   B) crea il backup rotativo;
+   C) genera docs\data\fantacalcio.json;
+   D) esegue git add / commit / push;
+   E) GitHub Pages aggiorna il sito;
+6. chiudi tutto;
+7. puoi spegnere il PC.
+
+Il sito resta online su GitHub Pages.
+
+
+FASE 13 - NUOVA STAGIONE
+-------------------------
+Quando inizia un nuovo anno:
+
+1. NON cancellare la stagione vecchia;
+2. vai su "Stagioni";
+3. aggiungi, ad esempio, 2027/2028;
+4. in Configurazione selezionala come stagione corrente;
+5. assegna le squadre alla nuova stagione;
+6. crea le nuove rose.
+
+La stagione precedente rimarrà nell'archivio.
+
+
+NOTE IMPORTANTI
+---------------
+- Non cancellare manualmente db.sqlite3.
+- Non caricare db.sqlite3 su GitHub.
+- Gli stemmi pubblicati sul sito sono invece copiati nella cartella docs/assets/logos.
+- Evita dati personali che non vuoi rendere pubblici.
+- Se vuoi cambiare colori/grafica, il file principale è:
+  docs\assets\style.css
+  ma non è necessario toccarlo per utilizzare il sito.
+
+
+AGGIORNAMENTO V2 - STEMMI STORICI E VINCITORI SENZA DATI COMPLETI
+===================================================================
+
+MODIFICARE UNO STEMMA IN UN SECONDO MOMENTO
+--------------------------------------------
+1. Vai nel tab Squadre.
+2. Seleziona la squadra dalla tabella.
+3. Premi "Carica selezionata per modifica".
+4. Premi "Scegli..." e seleziona il nuovo stemma.
+5. Premi "Salva squadra".
+
+Lo stemma viene conservato per quella specifica stagione. Una squadra può quindi
+avere uno stemma diverso negli anni successivi senza cambiare automaticamente quello storico.
+
+INSERIRE UN VECCHIO VINCITORE SENZA RISULTATI
+----------------------------------------------
+Vai nel tab Albo d'Oro e usa la sezione:
+"Aggiungi direttamente un vecchio vincitore".
+
+Inserisci:
+- stagione (es. 2021/2022);
+- squadra vincitrice;
+- fantallenatore;
+- stemma, se lo possiedi.
+
+Non devi inserire calendario, partite, rosa, marcatori o assist.
+Quella stagione compare nell'Albo d'Oro e viene conteggiata nel Palmarès,
+ma non compare nell'archivio delle stagioni complete.
+
+
+AGGIORNAMENTO V3 - SEPARAZIONE TRA SQUADRE ATTUALI E VINCITORI STORICI
+======================================================================
+
+Nel tab "Squadre" viene ora visualizzata SOLTANTO la stagione completa selezionata.
+I vincitori inseriti tramite "Aggiungi direttamente un vecchio vincitore" NON
+compaiono più nella lista delle squadre della stagione corrente.
+
+Le stagioni "solo Albo d'Oro":
+- compaiono nell'Albo d'Oro;
+- vengono conteggiate nel Palmarès;
+- NON compaiono nei menu Squadre, Rose, Partite e Gol/Assist;
+- NON possono essere selezionate accidentalmente come stagione corrente.
+
+Se nella vecchia V2 vedevi un vincitore storico nel tab Squadre, normalmente
+era soltanto una visualizzazione aggregata di più stagioni: il record rimaneva
+associato al suo anno storico. La V3 elimina comunque questa ambiguità.

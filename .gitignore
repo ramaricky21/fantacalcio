@@ -1,0 +1,9 @@
+# Dati privati/locali: NON pubblicare su GitHub
+db.sqlite3
+backups/
+__pycache__/
+*.pyc
+.spyproject/
+.idea/
+.vscode/
+.DS_Store

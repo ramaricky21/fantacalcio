@@ -1,0 +1,2655 @@
+{
+  "league_name": "AC Denti League",
+  "current_season_id": 6,
+  "generated_at": "2026-09-08T17:37:44",
+  "seasons": [
+    {
+      "id": 6,
+      "name": "2026/2027",
+      "archive_mode": "full",
+      "teams": [
+        {
+          "id": 5,
+          "name": "Atletico ma non troppo",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Matteo",
+          "roster": [
+            {
+              "id": 20,
+              "name": "Douvikas",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 21,
+              "name": "Elphege",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 22,
+              "name": "Kevin Carlos",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 23,
+              "name": "Sulemana K.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 24,
+              "name": "Tourè E.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 25,
+              "name": "Woltemade",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 12,
+              "name": "Akinsanmiro",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 13,
+              "name": "Barella",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 14,
+              "name": "Da Cunha",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 15,
+              "name": "Fazzini",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 16,
+              "name": "Frattesi",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 17,
+              "name": "Mandragora",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 18,
+              "name": "Mout",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 19,
+              "name": "Schmid",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 4,
+              "name": "Caleta-Car",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 5,
+              "name": "Floriani Mussolini",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 6,
+              "name": "Fortini",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 7,
+              "name": "Marusic",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 8,
+              "name": "Ostigard",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 9,
+              "name": "Otoa",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 10,
+              "name": "Patterson",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 11,
+              "name": "Vasquez",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 1,
+              "name": "Mandas",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 2,
+              "name": "Motta",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 3,
+              "name": "Renzetti",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Extraction Team",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Francesco",
+          "roster": [
+            {
+              "id": 45,
+              "name": "Adams A.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 46,
+              "name": "Bayo V.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 47,
+              "name": "Beto",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 48,
+              "name": "Esposito F.P.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 49,
+              "name": "Krstovic",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 50,
+              "name": "Zapata D.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 37,
+              "name": "Colpani",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 38,
+              "name": "De Roon",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 39,
+              "name": "Fagioli",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 40,
+              "name": "Jones C.",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 41,
+              "name": "Paz N.",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 42,
+              "name": "Pellegrini Lo.",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 43,
+              "name": "Taylor K.",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 44,
+              "name": "Zaccagni",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 29,
+              "name": "Balerdi",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 30,
+              "name": "Cambiaso",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 31,
+              "name": "Hien",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 32,
+              "name": "Marin R.",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 33,
+              "name": "Miranda J.",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 34,
+              "name": "Molina N.",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 35,
+              "name": "Pedraza",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 36,
+              "name": "Stones",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 26,
+              "name": "Di Gennaro",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 27,
+              "name": "Martinez Jo.",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 28,
+              "name": "Provedel",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Hellas Madonna",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Andrea",
+          "roster": [
+            {
+              "id": 70,
+              "name": "Bobcek",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 71,
+              "name": "Bowie",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 72,
+              "name": "Colombo",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 73,
+              "name": "Rrahmani Al.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 74,
+              "name": "Simeone",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 75,
+              "name": "Thuram",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 62,
+              "name": "Aboukhlal",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 63,
+              "name": "Baturina",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 64,
+              "name": "Busio",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 65,
+              "name": "Frendrup",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 66,
+              "name": "Goncalves P.",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 67,
+              "name": "Karlstrom",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 68,
+              "name": "McTominay",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 69,
+              "name": "Zaniolo",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 54,
+              "name": "Akanji",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 55,
+              "name": "Bella-Kotchap",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 56,
+              "name": "Carlos Augusto",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 57,
+              "name": "Dimarco",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 58,
+              "name": "Dragusin",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 59,
+              "name": "Gila",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 60,
+              "name": "Spence",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 61,
+              "name": "Valeri",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 51,
+              "name": "Bijlow",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 52,
+              "name": "Mrozek",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 53,
+              "name": "Okoye",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Invisibili",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Giuseppe",
+          "roster": [
+            {
+              "id": 95,
+              "name": "Camarda",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 96,
+              "name": "Davis K.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 97,
+              "name": "Mendy P.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 98,
+              "name": "Neres",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 99,
+              "name": "Osmajic",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 100,
+              "name": "Yeboah J.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 87,
+              "name": "Calhanoglu",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 88,
+              "name": "Casadei",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 89,
+              "name": "Coulibaly L.",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 90,
+              "name": "Folorunsho",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 91,
+              "name": "Pobega",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 92,
+              "name": "Thorstvedt",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 93,
+              "name": "Vergara",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 94,
+              "name": "Zielinski",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 79,
+              "name": "Bernasconi",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 80,
+              "name": "Bisseck",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 81,
+              "name": "Chalobah T.",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 82,
+              "name": "Couto",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 83,
+              "name": "Hermoso",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 84,
+              "name": "Kamara H.",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 85,
+              "name": "Solet",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 86,
+              "name": "Vojvoda",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 76,
+              "name": "Contini",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 77,
+              "name": "Meret",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 78,
+              "name": "Milinkovic-Savic V.",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "New Team",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Federico",
+          "roster": [
+            {
+              "id": 120,
+              "name": "Cutrone",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 121,
+              "name": "De Ketelare",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 122,
+              "name": "Esposito Se.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 123,
+              "name": "Kolo Muani",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 124,
+              "name": "Romero D.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 125,
+              "name": "Santos A.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 112,
+              "name": "Atta",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 113,
+              "name": "De Bruyne",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 114,
+              "name": "Gonzalez N.",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 115,
+              "name": "Hutchinson",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 116,
+              "name": "Locatelli",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 117,
+              "name": "Orsolini",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 118,
+              "name": "Pulisic",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 119,
+              "name": "Sucic P.",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 104,
+              "name": "Badiashile",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 105,
+              "name": "Di Lorenzo",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 106,
+              "name": "Kabasele",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 107,
+              "name": "Kaiki",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 108,
+              "name": "Monterisi",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 109,
+              "name": "Rrahmani",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 110,
+              "name": "Tavares N.",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 111,
+              "name": "Valle",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 101,
+              "name": "Corvi",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 102,
+              "name": "De Gea",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 103,
+              "name": "Falcone",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Old Towers",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Lorenzo",
+          "roster": [
+            {
+              "id": 146,
+              "name": "Dovbyk",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 147,
+              "name": "Enem",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 148,
+              "name": "Kean",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 149,
+              "name": "Laureintè",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 150,
+              "name": "Lucca",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 151,
+              "name": "Piccoli",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 138,
+              "name": "Cambiaghi",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 139,
+              "name": "Ederson D.S.",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 140,
+              "name": "El Shaarawy",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 141,
+              "name": "Elmas",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 142,
+              "name": "Politano",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 143,
+              "name": "Rowe",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 144,
+              "name": "Samardzic",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 145,
+              "name": "Zalewski",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 129,
+              "name": "Bellanova",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 130,
+              "name": "Ghilardi",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 131,
+              "name": "Kossounou",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 132,
+              "name": "Lulli",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 133,
+              "name": "Rensch",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 134,
+              "name": "Scalvini",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 135,
+              "name": "Wesley",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 137,
+              "name": "Zappacosta",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 126,
+              "name": "Grabara",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 127,
+              "name": "Pinsoglio",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 128,
+              "name": "Vicario",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Palermithanos",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Marco",
+          "roster": [
+            {
+              "id": 170,
+              "name": "Geubbels",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 171,
+              "name": "Ghedjemis",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 172,
+              "name": "Kvernadze",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 173,
+              "name": "Martinez L.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 174,
+              "name": "Ngonge",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 175,
+              "name": "Soluè",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 163,
+              "name": "Alajbegovic",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 164,
+              "name": "Baldanzi",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 165,
+              "name": "Cissè A.",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 166,
+              "name": "Conceicao",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 167,
+              "name": "Moreira",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 168,
+              "name": "Rabiot",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 169,
+              "name": "Sarr P.",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 155,
+              "name": "Bartesaghi",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 156,
+              "name": "Delprato",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 157,
+              "name": "Estupinian",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 158,
+              "name": "Mangas",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 159,
+              "name": "Mina",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 160,
+              "name": "Pavlovic",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 161,
+              "name": "Rodriguez Ju",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 162,
+              "name": "Tchato",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 152,
+              "name": "De Marzi",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 153,
+              "name": "Gollini",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 154,
+              "name": "Svilar",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Pescaramanzia",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Silvia",
+          "roster": [
+            {
+              "id": 195,
+              "name": "Gueye",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 196,
+              "name": "Hojlund",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 198,
+              "name": "Noslin",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 197,
+              "name": "Pinamonti",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 199,
+              "name": "Robinho Junior",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 200,
+              "name": "Stulic",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 187,
+              "name": "Adopo",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 188,
+              "name": "Fitz-Jim",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 189,
+              "name": "Gaetano",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 190,
+              "name": "Mora",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 191,
+              "name": "Pasalic",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 192,
+              "name": "Perrone",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 193,
+              "name": "Romano",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 194,
+              "name": "Vlasic",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 179,
+              "name": "Cabal",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 180,
+              "name": "Doekhi",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 181,
+              "name": "Idzes",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 182,
+              "name": "Kalulu",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 183,
+              "name": "Leysen F.",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 184,
+              "name": "Obert",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 185,
+              "name": "Oyono A.",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 186,
+              "name": "Valdepenas",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 176,
+              "name": "Caprile",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 177,
+              "name": "Muric",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 178,
+              "name": "Skorupski",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Sporting Lisbronzi",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Riccardo",
+          "roster": [
+            {
+              "id": 220,
+              "name": "Kulenovic",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 221,
+              "name": "Lang",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 222,
+              "name": "Lontani",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 223,
+              "name": "Maldini",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 224,
+              "name": "Malen",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 225,
+              "name": "Vitinha O.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 212,
+              "name": "Adzic",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 213,
+              "name": "Calò",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 214,
+              "name": "Caqueret",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 215,
+              "name": "Ekkelenkamp",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 216,
+              "name": "McKennie",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 217,
+              "name": "Milla",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 218,
+              "name": "Volpato",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 219,
+              "name": "Zerbin",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 204,
+              "name": "Bastoni",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 205,
+              "name": "Bracaglia",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 206,
+              "name": "De Winter",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 207,
+              "name": "Heggem",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 208,
+              "name": "Holm",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 209,
+              "name": "Kempf",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 210,
+              "name": "Mazzocchi",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 211,
+              "name": "Troilo",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 201,
+              "name": "Carnesecchi",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 202,
+              "name": "Palmisani",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 203,
+              "name": "Sportiello",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Temptation Haaland",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Claudio",
+          "roster": [
+            {
+              "id": 245,
+              "name": "Boga",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 246,
+              "name": "Bonny",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 247,
+              "name": "Mota",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 248,
+              "name": "N'Dri",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 249,
+              "name": "Ramos G.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 250,
+              "name": "Raspadori",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 237,
+              "name": "Berisha M.",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 238,
+              "name": "Chukwueze",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 239,
+              "name": "Lobotka",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 240,
+              "name": "Loftus-Cheek",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 241,
+              "name": "Moro N.",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 242,
+              "name": "Pisilli",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 243,
+              "name": "Rodriguez Je.",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 244,
+              "name": "Saelemaekers",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 229,
+              "name": "Celik",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 230,
+              "name": "Comuzzo",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 231,
+              "name": "Helland",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 232,
+              "name": "Kolasinac",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 233,
+              "name": "N'Dicka",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 234,
+              "name": "Ramon",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 235,
+              "name": "Tiago Gabriel",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 236,
+              "name": "Ziolkowski",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 226,
+              "name": "Butez",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 227,
+              "name": "Sanchez Ro.",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 228,
+              "name": "Vigorito",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Tibia e peroni",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Yurghi",
+          "roster": [
+            {
+              "id": 270,
+              "name": "Adams C.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 271,
+              "name": "Castro S.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 272,
+              "name": "Dybala",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 273,
+              "name": "Pellegrino M.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 274,
+              "name": "Raimondo",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 275,
+              "name": "Varela G.",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 262,
+              "name": "Basic",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 263,
+              "name": "Cacciamani",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 264,
+              "name": "Cristante",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 265,
+              "name": "Kessiè",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 266,
+              "name": "Konè M.",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 267,
+              "name": "Matic",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 268,
+              "name": "Modric",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 269,
+              "name": "Zambo Anguissa",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 254,
+              "name": "Belghali",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 255,
+              "name": "Diego Carlos",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 256,
+              "name": "Kourielakis",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 257,
+              "name": "Kristensen T.",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 258,
+              "name": "Lucumì",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 259,
+              "name": "Mancini",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 260,
+              "name": "Marcandalli",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 261,
+              "name": "Zortea",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 251,
+              "name": "Mascardi",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 252,
+              "name": "Perri",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 253,
+              "name": "Siviero",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Yildiz-Astro",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Luca",
+          "roster": [
+            {
+              "id": 295,
+              "name": "Berardi",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 296,
+              "name": "Diao",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 297,
+              "name": "Gnonto",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 298,
+              "name": "Milik",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 299,
+              "name": "Scamacca",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 300,
+              "name": "Yildiz",
+              "role": "A",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 287,
+              "name": "Bernabè",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 288,
+              "name": "Bernardeschi",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 289,
+              "name": "Diouf",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 290,
+              "name": "Douglas Luiz",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 291,
+              "name": "Gudmundsson A.",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 292,
+              "name": "Mastantuono",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 293,
+              "name": "Mkhitaryan",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 294,
+              "name": "Zhegrova",
+              "role": "C",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 279,
+              "name": "Bremer",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 280,
+              "name": "Dodò",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 281,
+              "name": "Gallo",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 282,
+              "name": "Gatti",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 283,
+              "name": "Jimenez A.",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 284,
+              "name": "Spinazzola",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 285,
+              "name": "Sugawara",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 286,
+              "name": "Theate",
+              "role": "D",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 276,
+              "name": "Maignan",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 277,
+              "name": "Terracciano",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            },
+            {
+              "id": 278,
+              "name": "Torriani",
+              "role": "P",
+              "goals": 0,
+              "assists": 0
+            }
+          ]
+        }
+      ],
+      "matches": [],
+      "standings": [
+        {
+          "team_id": 5,
+          "name": "Atletico ma non troppo",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Matteo",
+          "played": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0,
+          "position": 1
+        },
+        {
+          "team_id": 1,
+          "name": "Extraction Team",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Francesco",
+          "played": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0,
+          "position": 2
+        },
+        {
+          "team_id": 7,
+          "name": "Hellas Madonna",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Andrea",
+          "played": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0,
+          "position": 3
+        },
+        {
+          "team_id": 8,
+          "name": "Invisibili",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Giuseppe",
+          "played": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0,
+          "position": 4
+        },
+        {
+          "team_id": 4,
+          "name": "New Team",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Federico",
+          "played": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0,
+          "position": 5
+        },
+        {
+          "team_id": 3,
+          "name": "Old Towers",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Lorenzo",
+          "played": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0,
+          "position": 6
+        },
+        {
+          "team_id": 9,
+          "name": "Palermithanos",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Marco",
+          "played": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0,
+          "position": 7
+        },
+        {
+          "team_id": 10,
+          "name": "Pescaramanzia",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Silvia",
+          "played": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0,
+          "position": 8
+        },
+        {
+          "team_id": 6,
+          "name": "Sporting Lisbronzi",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Riccardo",
+          "played": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0,
+          "position": 9
+        },
+        {
+          "team_id": 11,
+          "name": "Temptation Haaland",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Claudio",
+          "played": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0,
+          "position": 10
+        },
+        {
+          "team_id": 12,
+          "name": "Tibia e peroni",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Yurghi",
+          "played": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0,
+          "position": 11
+        },
+        {
+          "team_id": 13,
+          "name": "Yildiz-Astro",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Luca",
+          "played": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0,
+          "position": 12
+        }
+      ],
+      "champion": null
+    },
+    {
+      "id": 5,
+      "name": "2025/2026",
+      "archive_mode": "honor_only",
+      "teams": [
+        {
+          "id": 4,
+          "name": "New Team",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Federico",
+          "roster": []
+        }
+      ],
+      "matches": [],
+      "standings": [
+        {
+          "team_id": 4,
+          "name": "New Team",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Federico",
+          "played": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0,
+          "position": 1
+        }
+      ],
+      "champion": {
+        "id": 5,
+        "season_id": 5,
+        "team_id": 4,
+        "coach_name": "Federico",
+        "team_name": "New Team",
+        "logo": "assets/logos/default-logo.svg"
+      }
+    },
+    {
+      "id": 4,
+      "name": "2024/2025",
+      "archive_mode": "honor_only",
+      "teams": [
+        {
+          "id": 4,
+          "name": "New Team",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Federico",
+          "roster": []
+        }
+      ],
+      "matches": [],
+      "standings": [
+        {
+          "team_id": 4,
+          "name": "New Team",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Federico",
+          "played": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0,
+          "position": 1
+        }
+      ],
+      "champion": {
+        "id": 4,
+        "season_id": 4,
+        "team_id": 4,
+        "coach_name": "Federico",
+        "team_name": "New Team",
+        "logo": "assets/logos/default-logo.svg"
+      }
+    },
+    {
+      "id": 3,
+      "name": "2023/2024",
+      "archive_mode": "honor_only",
+      "teams": [
+        {
+          "id": 3,
+          "name": "Old Towers",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Lorenzo",
+          "roster": []
+        }
+      ],
+      "matches": [],
+      "standings": [
+        {
+          "team_id": 3,
+          "name": "Old Towers",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Lorenzo",
+          "played": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0,
+          "position": 1
+        }
+      ],
+      "champion": {
+        "id": 3,
+        "season_id": 3,
+        "team_id": 3,
+        "coach_name": "Lorenzo",
+        "team_name": "Old Towers",
+        "logo": "assets/logos/default-logo.svg"
+      }
+    },
+    {
+      "id": 2,
+      "name": "2021/2022",
+      "archive_mode": "honor_only",
+      "teams": [
+        {
+          "id": 2,
+          "name": "AC Denti",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Roberto",
+          "roster": []
+        }
+      ],
+      "matches": [],
+      "standings": [
+        {
+          "team_id": 2,
+          "name": "AC Denti",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Roberto",
+          "played": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0,
+          "position": 1
+        }
+      ],
+      "champion": {
+        "id": 2,
+        "season_id": 2,
+        "team_id": 2,
+        "coach_name": "Roberto",
+        "team_name": "AC Denti",
+        "logo": "assets/logos/default-logo.svg"
+      }
+    },
+    {
+      "id": 1,
+      "name": "2020/2021",
+      "archive_mode": "honor_only",
+      "teams": [
+        {
+          "id": 1,
+          "name": "Extraction Team",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Francesco",
+          "roster": []
+        }
+      ],
+      "matches": [],
+      "standings": [
+        {
+          "team_id": 1,
+          "name": "Extraction Team",
+          "logo": "assets/logos/default-logo.svg",
+          "coach": "Francesco",
+          "played": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0,
+          "position": 1
+        }
+      ],
+      "champion": {
+        "id": 1,
+        "season_id": 1,
+        "team_id": 1,
+        "coach_name": "Francesco",
+        "team_name": "Extraction Team",
+        "logo": "assets/logos/default-logo.svg"
+      }
+    }
+  ],
+  "champions_history": [
+    {
+      "season_id": 5,
+      "season_name": "2025/2026",
+      "team_id": 4,
+      "team_name": "New Team",
+      "logo": "assets/logos/default-logo.svg",
+      "coach_name": "Federico"
+    },
+    {
+      "season_id": 4,
+      "season_name": "2024/2025",
+      "team_id": 4,
+      "team_name": "New Team",
+      "logo": "assets/logos/default-logo.svg",
+      "coach_name": "Federico"
+    },
+    {
+      "season_id": 3,
+      "season_name": "2023/2024",
+      "team_id": 3,
+      "team_name": "Old Towers",
+      "logo": "assets/logos/default-logo.svg",
+      "coach_name": "Lorenzo"
+    },
+    {
+      "season_id": 2,
+      "season_name": "2021/2022",
+      "team_id": 2,
+      "team_name": "AC Denti",
+      "logo": "assets/logos/default-logo.svg",
+      "coach_name": "Roberto"
+    },
+    {
+      "season_id": 1,
+      "season_name": "2020/2021",
+      "team_id": 1,
+      "team_name": "Extraction Team",
+      "logo": "assets/logos/default-logo.svg",
+      "coach_name": "Francesco"
+    }
+  ],
+  "palmares": [
+    {
+      "team_id": 4,
+      "name": "New Team",
+      "logo": "assets/logos/default-logo.svg",
+      "titles": 2
+    },
+    {
+      "team_id": 2,
+      "name": "AC Denti",
+      "logo": "assets/logos/default-logo.svg",
+      "titles": 1
+    },
+    {
+      "team_id": 1,
+      "name": "Extraction Team",
+      "logo": "assets/logos/default-logo.svg",
+      "titles": 1
+    },
+    {
+      "team_id": 3,
+      "name": "Old Towers",
+      "logo": "assets/logos/default-logo.svg",
+      "titles": 1
+    }
+  ]
+}

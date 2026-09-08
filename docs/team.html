@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Squadra</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body data-page="team">
+  <header class="topbar">
+    <a href="index.html" class="brand">← Home</a>
+    <a id="back-league" href="league.html">Lega</a>
+  </header>
+  <main class="container">
+    <section class="team-hero">
+      <img id="team-logo" class="big-logo" alt="Stemma">
+      <div>
+        <h1 id="team-title"></h1>
+        <p id="team-coach"></p>
+        <p id="team-season"></p>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Rosa</h2>
+      <div class="table-wrap"><table id="roster-table"></table></div>
+    </section>
+
+    <div class="two-cols">
+      <section class="panel">
+        <h2>⚽ Classifica marcatori</h2>
+        <div id="scorers"></div>
+      </section>
+      <section class="panel">
+        <h2>🎯 Classifica assistman</h2>
+        <div id="assists"></div>
+      </section>
+    </div>
+
+    <section class="panel">
+      <h2>Storico partite</h2>
+      <div id="team-matches"></div>
+    </section>
+  </main>
+  <script src="assets/app.js"></script>
+</body>
+</html>

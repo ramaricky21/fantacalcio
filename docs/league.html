@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lega</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body data-page="league">
+  <header class="topbar">
+    <a href="index.html" class="brand">← Home</a>
+    <strong id="header-league"></strong>
+  </header>
+  <main class="container">
+    <section class="hero">
+      <h1 id="league-title"></h1>
+      <p id="league-season"></p>
+    </section>
+
+    <nav class="section-nav">
+      <a href="#classifica">Classifica</a>
+      <a href="#calendario">Calendario</a>
+      <a href="#archivio">Anni passati</a>
+      <a href="#albo">Albo d'Oro</a>
+    </nav>
+
+    <section id="classifica" class="panel">
+      <h2>Classifica generale</h2>
+      <div class="table-wrap"><table id="standings-table"></table></div>
+    </section>
+
+    <section id="calendario" class="panel">
+      <h2>Calendario e risultati</h2>
+      <div id="calendar"></div>
+    </section>
+
+    <section id="archivio" class="panel">
+      <h2>Anni passati</h2>
+      <div id="archive" class="cards"></div>
+    </section>
+
+    <section id="albo" class="panel">
+      <h2>🏆 Albo d'Oro</h2>
+      <div id="champions-history" class="cards"></div>
+      <h3>🏅 Palmarès storico</h3>
+      <div id="palmares"></div>
+    </section>
+  </main>
+  <script src="assets/app.js"></script>
+</body>
+</html>
