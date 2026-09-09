@@ -175,7 +175,7 @@ async function renderTeam(data) {
   document.getElementById("roster-table").innerHTML = `
     <thead><tr><th>Giocatore</th><th>Ruolo</th><th>Gol</th><th>Assist</th></tr></thead>
     <tbody>${team.roster.map(p=>`
-      <tr><td class="team-cell">${esc(p.name)}</td><td>${esc(p.role)}</td><td>${p.goals}</td><td>${p.assists}</td></tr>
+      <tr><td class="team-cell">${esc(p.name)}</td><td><span class="role-badge">${esc(p.role)}</span></td><td>${p.goals}</td><td>${p.assists}</td></tr>
     `).join("")}</tbody>`;
 
   document.getElementById("scorers").innerHTML = ranking(team.roster,"goals");
@@ -191,7 +191,7 @@ async function renderTeam(data) {
     return `<div class="match">
       <span class="home">Giornata ${m.round_no}</span>
       <span class="score">${esc(m.home_name)} ${m.home_score} - ${m.away_score} ${esc(m.away_name)}</span>
-      <strong class="away">${outcome}</strong>
+      <strong class="away result-${outcome.toLowerCase()}">${outcome}</strong>
       ${details ? `<div class="match-details">${details}</div>` : ""}
     </div>`;
   }).join("") : `<p class="muted">Nessuna partita registrata.</p>`;
