@@ -121,27 +121,125 @@ function palmaresHtml(data) {
     </div>`).join("");
 }
 
+
+function leagueRanking(items, key, season, listId) {
+  const positive = (items || []).filter(x => Number(x[key]) > 0);
+  if (!positive.length) return `<p class="muted">Nessun dato ancora registrato.</p>`;
+
+  const rows = positive.map((p,i)=>`
+    <div class="ranking-row league-ranking-row${i >= 10 ? " league-ranking-extra" : ""}"${i >= 10 ? ' hidden style="display:none"' : ""}>
+      <span class="medal">${i+1}°</span>
+      <span class="league-player">
+        ${img(p.team_logo)}
+        <span><strong>${esc(p.name)}</strong><small>${esc(p.team_name)}</small></span>
+      </span>
+      <strong>${p[key]}</strong>
+    </div>`).join("");
+
+  const toggle = positive.length > 10
+    ? `<button class="league-ranking-toggle" type="button" data-target="${listId}" aria-expanded="false" onclick="toggleLeagueRanking(this)">Carica altro</button>`
+    : "";
+
+  return `<div id="${listId}" class="league-ranking-list">${rows}</div>${toggle}`;
+}
+
+function toggleLeagueRanking(button) {
+  const list = document.getElementById(button.dataset.target);
+  if (!list) return;
+  const extras = list.querySelectorAll(".league-ranking-extra");
+  const expanding = button.getAttribute("aria-expanded") !== "true";
+  extras.forEach(row => {
+    row.hidden = !expanding;
+    row.style.display = expanding ? "" : "none";
+  });
+  button.setAttribute("aria-expanded", expanding ? "true" : "false");
+  button.textContent = expanding ? "Mostra meno" : "Carica altro";
+}
+
+function scoringRecordHtml(season) {
+  const record = season.scoring_record;
+  if (!record || !(record.performances || []).length) {
+    return `<p class="muted">Nessuna partita registrata: il record apparirà automaticamente con il primo risultato.</p>`;
+  }
+  const tied = record.performances.length > 1;
+  return `
+    <div class="record-headline">
+      <span class="record-number">${record.goals}</span>
+      <span><strong>${record.goals === 1 ? "gol" : "gol"}</strong><small>massimo segnato da una squadra in una singola partita</small></span>
+    </div>
+    ${tied ? `<p class="record-tie muted">Record condiviso da ${record.performances.length} prestazioni.</p>` : ""}
+    <div class="record-cards">
+      ${record.performances.map(r => `
+        <a class="record-card" href="team.html?team=${r.team_id}&season=${season.id}">
+          <div class="record-team"><strong>${esc(r.team_name)}</strong><span>${r.goals} gol</span></div>
+          <div class="record-match">Giornata ${esc(r.round_no)} · ${esc(r.home_name)} <b>${r.home_score} - ${r.away_score}</b> ${esc(r.away_name)}</div>
+          ${r.match_date ? `<div class="record-date">${esc(r.match_date)}</div>` : ""}
+        </a>`).join("")}
+    </div>`;
+}
+
+function ensureLeagueExtras() {
+  // Compatibilita con una league.html precedente rimasta in cache:
+  // se i nuovi blocchi non esistono, li creiamo senza bloccare il resto della pagina.
+  const standings = document.getElementById("classifica");
+  const calendar = document.getElementById("calendario");
+  if (!standings || !calendar) return;
+
+  if (!document.getElementById("scoring-record")) {
+    const section = document.createElement("section");
+    section.id = "record-gol";
+    section.className = "panel record-panel";
+    section.innerHTML = `<h2>🔥 Record gol in una partita</h2><div id="scoring-record"></div>`;
+    calendar.parentNode.insertBefore(section, calendar);
+  }
+
+  if (!document.getElementById("league-scorers") || !document.getElementById("league-assists")) {
+    const section = document.createElement("section");
+    section.id = "statistiche";
+    section.className = "two-cols league-rankings";
+    section.innerHTML = `
+      <section class="panel"><h2>⚽ Classifica marcatori della lega</h2><div id="league-scorers"></div></section>
+      <section class="panel"><h2>🎯 Classifica assistman della lega</h2><div id="league-assists"></div></section>`;
+    calendar.parentNode.insertBefore(section, calendar);
+  }
+}
+
+function setHtml(id, html) {
+  const el = document.getElementById(id);
+  if (el) el.innerHTML = html;
+}
+
+function setText(id, text) {
+  const el = document.getElementById(id);
+  if (el) el.textContent = text;
+}
+
 async function renderLeague(data) {
   const selected = Number(qs("season") || data.current_season_id);
   const season = seasonById(data, selected) || currentSeason(data);
   if (!season) return;
-  document.title = `${data.league_name} - ${season.name}`;
-  document.getElementById("header-league").textContent = data.league_name;
-  document.getElementById("league-title").textContent = data.league_name;
-  document.getElementById("league-season").textContent = `Stagione ${season.name}`;
-  document.getElementById("standings-table").innerHTML = standingsTable(season);
-  document.getElementById("calendar").innerHTML = calendarHtml(season);
 
-  const fullSeasons = data.seasons.filter(s => (s.archive_mode || "full") === "full");
-  document.getElementById("archive").innerHTML = fullSeasons.map(s => `
+  ensureLeagueExtras();
+  document.title = `${data.league_name} - ${season.name}`;
+  setText("header-league", data.league_name);
+  setText("league-title", data.league_name);
+  setText("league-season", `Stagione ${season.name}`);
+  setHtml("standings-table", standingsTable(season));
+  setHtml("scoring-record", scoringRecordHtml(season));
+  setHtml("league-scorers", leagueRanking(season.league_scorers, "goals", season, "league-scorers-list"));
+  setHtml("league-assists", leagueRanking(season.league_assistmen, "assists", season, "league-assists-list"));
+  setHtml("calendar", calendarHtml(season));
+
+  const fullSeasons = (data.seasons || []).filter(s => (s.archive_mode || "full") === "full");
+  setHtml("archive", fullSeasons.map(s => `
     <a class="card" href="league.html?season=${s.id}">
       <h3>${esc(s.name)}</h3>
       <p>${s.matches.length} partite registrate</p>
       ${s.champion ? `<p>🏆 ${esc(s.champion.team_name)}</p>` : `<p class="muted">Vincitore non registrato</p>`}
-    </a>`).join("");
+    </a>`).join(""));
 
-  document.getElementById("champions-history").innerHTML = championsHtml(data);
-  document.getElementById("palmares").innerHTML = palmaresHtml(data);
+  setHtml("champions-history", championsHtml(data));
+  setHtml("palmares", palmaresHtml(data));
 }
 
 function ranking(items, key) {

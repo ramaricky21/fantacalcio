@@ -606,3 +606,114 @@ body[data-page="home"] .topbar {
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; }
 }
+
+/* Statistiche complessive e record della singola stagione */
+.league-rankings .panel { margin-top: 0; margin-bottom: 20px; }
+.league-ranking-row .league-player {
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+.league-ranking-row .league-player > span {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+.league-ranking-row .league-player strong,
+.league-ranking-row .league-player small {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.league-ranking-row .league-player small {
+  color: var(--muted);
+  font-size: .74rem;
+  font-weight: 650;
+}
+
+.record-panel {
+  background:
+    radial-gradient(circle at 88% 0%, rgba(243,200,91,.13), transparent 24rem),
+    linear-gradient(145deg, rgba(18, 37, 28, .93), rgba(10, 23, 17, .95));
+}
+.record-headline {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 18px;
+}
+.record-number {
+  min-width: 72px;
+  height: 72px;
+  display: grid;
+  place-items: center;
+  border: 1px solid rgba(243,200,91,.28);
+  border-radius: 20px;
+  background: rgba(243,200,91,.09);
+  color: var(--gold);
+  font-size: 2rem;
+  font-weight: 950;
+}
+.record-headline > span:last-child {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.record-headline strong { font-size: 1.12rem; }
+.record-headline small { color: var(--muted); line-height: 1.4; }
+.record-tie { margin: -6px 0 16px; }
+.record-cards { display: grid; gap: 10px; }
+.record-card {
+  display: grid;
+  grid-template-columns: minmax(170px, .8fr) minmax(250px, 1.5fr) auto;
+  gap: 16px;
+  align-items: center;
+  padding: 16px 18px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: rgba(4,13,9,.25);
+  transition: transform .18s ease, border-color .18s ease, background .18s ease;
+}
+.record-card:hover {
+  transform: translateY(-2px);
+  border-color: rgba(243,200,91,.30);
+  background: rgba(243,200,91,.035);
+}
+.record-team { display: flex; flex-direction: column; gap: 4px; }
+.record-team strong { font-size: 1.02rem; }
+.record-team span { color: var(--gold); font-size: .78rem; font-weight: 900; text-transform: uppercase; letter-spacing: .06em; }
+.record-match { text-align: center; font-weight: 700; }
+.record-match b { color: var(--text); padding: 0 5px; }
+.record-date { color: var(--muted); font-size: .8rem; text-align: right; }
+
+@media (max-width: 760px) {
+  .record-card { grid-template-columns: 1fr; gap: 8px; }
+  .record-match, .record-date { text-align: left; }
+  .record-headline { align-items: flex-start; }
+  .record-number { min-width: 60px; height: 60px; border-radius: 16px; font-size: 1.65rem; }
+}
+
+
+/* Classifiche lega compatte: prime 10 posizioni + espansione */
+.league-ranking-extra[hidden] { display: none !important; }
+.league-ranking-toggle {
+  display: block;
+  width: 100%;
+  margin-top: 12px;
+  padding: 11px 14px;
+  border: 1px solid rgba(243,200,91,.24);
+  border-radius: 12px;
+  background: rgba(243,200,91,.07);
+  color: var(--gold);
+  font: inherit;
+  font-weight: 850;
+  cursor: pointer;
+  transition: transform .18s ease, border-color .18s ease, background .18s ease;
+}
+.league-ranking-toggle:hover {
+  transform: translateY(-1px);
+  border-color: rgba(243,200,91,.42);
+  background: rgba(243,200,91,.11);
+}

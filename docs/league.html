@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#07110d">
   <title>Lega</title>
-  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/style.css?v=20261007-4">
 </head>
 <body data-page="league">
   <header class="topbar">
@@ -20,6 +20,8 @@
 
     <nav class="section-nav">
       <a href="#classifica">Classifica</a>
+      <a href="#record-gol">Record gol</a>
+      <a href="#statistiche">Marcatori / Assist</a>
       <a href="#calendario">Calendario</a>
       <a href="#archivio">Anni passati</a>
       <a href="#albo">Albo d'Oro</a>
@@ -28,6 +30,22 @@
     <section id="classifica" class="panel">
       <h2>Classifica generale</h2>
       <div class="table-wrap"><table id="standings-table"></table></div>
+    </section>
+
+    <section id="record-gol" class="panel record-panel">
+      <h2>🔥 Record gol in una partita</h2>
+      <div id="scoring-record"></div>
+    </section>
+
+    <section id="statistiche" class="two-cols league-rankings">
+      <section class="panel">
+        <h2>⚽ Classifica marcatori della lega</h2>
+        <div id="league-scorers"></div>
+      </section>
+      <section class="panel">
+        <h2>🎯 Classifica assistman della lega</h2>
+        <div id="league-assists"></div>
+      </section>
     </section>
 
     <section id="calendario" class="panel">
@@ -47,6 +65,6 @@
       <div id="palmares"></div>
     </section>
   </main>
-  <script src="assets/app.js"></script>
+  <script src="assets/app.js?v=20261007-4"></script>
 </body>
 </html>

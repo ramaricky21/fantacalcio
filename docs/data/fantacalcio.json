@@ -1,7 +1,7 @@
 {
   "league_name": "AC Denti League",
   "current_season_id": 6,
-  "generated_at": "2026-10-07T14:54:53",
+  "generated_at": "2026-10-07T15:20:08",
   "seasons": [
     {
       "id": 6,
@@ -3363,6 +3363,6029 @@
           "position": 12
         }
       ],
+      "league_scorers": [
+        {
+          "player_id": 292,
+          "name": "Mastantuono",
+          "role": "C",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 3,
+          "assists": 0
+        },
+        {
+          "player_id": 167,
+          "name": "Moreira",
+          "role": "C",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 3,
+          "assists": 0
+        },
+        {
+          "player_id": 294,
+          "name": "Zhegrova",
+          "role": "C",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 2,
+          "assists": 1
+        },
+        {
+          "player_id": 212,
+          "name": "Adzic",
+          "role": "C",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 89,
+          "name": "Coulibaly L.",
+          "role": "C",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 266,
+          "name": "Konè M.",
+          "role": "C",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 172,
+          "name": "Kvernadze",
+          "role": "A",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 223,
+          "name": "Maldini",
+          "role": "A",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 173,
+          "name": "Martinez L.",
+          "role": "A",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 198,
+          "name": "Noslin",
+          "role": "A",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 124,
+          "name": "Romero D.",
+          "role": "A",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 275,
+          "name": "Varela G.",
+          "role": "A",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 75,
+          "name": "Thuram",
+          "role": "A",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 1,
+          "assists": 2
+        },
+        {
+          "player_id": 283,
+          "name": "Jimenez A.",
+          "role": "D",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 1,
+          "assists": 1
+        },
+        {
+          "player_id": 118,
+          "name": "Pulisic",
+          "role": "C",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 1,
+          "assists": 1
+        },
+        {
+          "player_id": 44,
+          "name": "Zaccagni",
+          "role": "C",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 1,
+          "assists": 1
+        },
+        {
+          "player_id": 45,
+          "name": "Adams A.",
+          "role": "A",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 13,
+          "name": "Barella",
+          "role": "C",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 288,
+          "name": "Bernardeschi",
+          "role": "C",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 246,
+          "name": "Bonny",
+          "role": "A",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 71,
+          "name": "Bowie",
+          "role": "A",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 279,
+          "name": "Bremer",
+          "role": "D",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 213,
+          "name": "Calò",
+          "role": "C",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 301,
+          "name": "Cancellieri",
+          "role": "C",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 56,
+          "name": "Carlos Augusto",
+          "role": "D",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 166,
+          "name": "Conceicao",
+          "role": "C",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 215,
+          "name": "Ekkelenkamp",
+          "role": "C",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 48,
+          "name": "Esposito F.P.",
+          "role": "A",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 122,
+          "name": "Esposito Se.",
+          "role": "A",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 195,
+          "name": "Gueye",
+          "role": "A",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 107,
+          "name": "Kaiki",
+          "role": "D",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 220,
+          "name": "Kulenovic",
+          "role": "A",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 239,
+          "name": "Lobotka",
+          "role": "C",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 224,
+          "name": "Malen",
+          "role": "A",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 158,
+          "name": "Mangas",
+          "role": "D",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 97,
+          "name": "Mendy P.",
+          "role": "A",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 99,
+          "name": "Osmajic",
+          "role": "A",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 273,
+          "name": "Pellegrino M.",
+          "role": "A",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 242,
+          "name": "Pisilli",
+          "role": "C",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 168,
+          "name": "Rabiot",
+          "role": "C",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 234,
+          "name": "Ramon",
+          "role": "D",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 299,
+          "name": "Scamacca",
+          "role": "A",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 235,
+          "name": "Tiago Gabriel",
+          "role": "D",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 11,
+          "name": "Vasquez",
+          "role": "D",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 19,
+          "name": "Schmid",
+          "role": "C",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 3
+        },
+        {
+          "player_id": 187,
+          "name": "Adopo",
+          "role": "C",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 64,
+          "name": "Busio",
+          "role": "C",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 229,
+          "name": "Celik",
+          "role": "D",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 72,
+          "name": "Colombo",
+          "role": "A",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 96,
+          "name": "Davis K.",
+          "role": "A",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 289,
+          "name": "Diouf",
+          "role": "C",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 21,
+          "name": "Elphege",
+          "role": "A",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 39,
+          "name": "Fagioli",
+          "role": "C",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 123,
+          "name": "Kolo Muani",
+          "role": "A",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 149,
+          "name": "Laureintè",
+          "role": "A",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 17,
+          "name": "Mandragora",
+          "role": "C",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 267,
+          "name": "Matic",
+          "role": "C",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 34,
+          "name": "Molina N.",
+          "role": "D",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 160,
+          "name": "Pavlovic",
+          "role": "D",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 41,
+          "name": "Paz N.",
+          "role": "C",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 142,
+          "name": "Politano",
+          "role": "C",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 249,
+          "name": "Ramos G.",
+          "role": "A",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 110,
+          "name": "Tavares N.",
+          "role": "D",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 24,
+          "name": "Tourè E.",
+          "role": "A",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 94,
+          "name": "Zielinski",
+          "role": "C",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 62,
+          "name": "Aboukhlal",
+          "role": "C",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 270,
+          "name": "Adams C.",
+          "role": "A",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 54,
+          "name": "Akanji",
+          "role": "D",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 12,
+          "name": "Akinsanmiro",
+          "role": "C",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 163,
+          "name": "Alajbegovic",
+          "role": "C",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 112,
+          "name": "Atta",
+          "role": "C",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 104,
+          "name": "Badiashile",
+          "role": "D",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 164,
+          "name": "Baldanzi",
+          "role": "C",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 29,
+          "name": "Balerdi",
+          "role": "D",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 155,
+          "name": "Bartesaghi",
+          "role": "D",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 262,
+          "name": "Basic",
+          "role": "C",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 204,
+          "name": "Bastoni",
+          "role": "D",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 63,
+          "name": "Baturina",
+          "role": "C",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 46,
+          "name": "Bayo V.",
+          "role": "A",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 254,
+          "name": "Belghali",
+          "role": "D",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 55,
+          "name": "Bella-Kotchap",
+          "role": "D",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 129,
+          "name": "Bellanova",
+          "role": "D",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 295,
+          "name": "Berardi",
+          "role": "A",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 237,
+          "name": "Berisha M.",
+          "role": "C",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 287,
+          "name": "Bernabè",
+          "role": "C",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 79,
+          "name": "Bernasconi",
+          "role": "D",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 47,
+          "name": "Beto",
+          "role": "A",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 51,
+          "name": "Bijlow",
+          "role": "P",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 80,
+          "name": "Bisseck",
+          "role": "D",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 70,
+          "name": "Bobcek",
+          "role": "A",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 245,
+          "name": "Boga",
+          "role": "A",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 205,
+          "name": "Bracaglia",
+          "role": "D",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 226,
+          "name": "Butez",
+          "role": "P",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 179,
+          "name": "Cabal",
+          "role": "D",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 263,
+          "name": "Cacciamani",
+          "role": "C",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 4,
+          "name": "Caleta-Car",
+          "role": "D",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 87,
+          "name": "Calhanoglu",
+          "role": "C",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 95,
+          "name": "Camarda",
+          "role": "A",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 138,
+          "name": "Cambiaghi",
+          "role": "C",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 30,
+          "name": "Cambiaso",
+          "role": "D",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 176,
+          "name": "Caprile",
+          "role": "P",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 214,
+          "name": "Caqueret",
+          "role": "C",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 201,
+          "name": "Carnesecchi",
+          "role": "P",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 88,
+          "name": "Casadei",
+          "role": "C",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 271,
+          "name": "Castro S.",
+          "role": "A",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 81,
+          "name": "Chalobah T.",
+          "role": "D",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 238,
+          "name": "Chukwueze",
+          "role": "C",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 165,
+          "name": "Cissè A.",
+          "role": "C",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 37,
+          "name": "Colpani",
+          "role": "C",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 230,
+          "name": "Comuzzo",
+          "role": "D",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 76,
+          "name": "Contini",
+          "role": "P",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 101,
+          "name": "Corvi",
+          "role": "P",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 82,
+          "name": "Couto",
+          "role": "D",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 264,
+          "name": "Cristante",
+          "role": "C",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 120,
+          "name": "Cutrone",
+          "role": "A",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 14,
+          "name": "Da Cunha",
+          "role": "C",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 113,
+          "name": "De Bruyne",
+          "role": "C",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 102,
+          "name": "De Gea",
+          "role": "P",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 121,
+          "name": "De Ketelare",
+          "role": "A",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 152,
+          "name": "De Marzi",
+          "role": "P",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 38,
+          "name": "De Roon",
+          "role": "C",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 206,
+          "name": "De Winter",
+          "role": "D",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 156,
+          "name": "Delprato",
+          "role": "D",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 26,
+          "name": "Di Gennaro",
+          "role": "P",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 105,
+          "name": "Di Lorenzo",
+          "role": "D",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 296,
+          "name": "Diao",
+          "role": "A",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 255,
+          "name": "Diego Carlos",
+          "role": "D",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 57,
+          "name": "Dimarco",
+          "role": "D",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 280,
+          "name": "Dodò",
+          "role": "D",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 180,
+          "name": "Doekhi",
+          "role": "D",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 290,
+          "name": "Douglas Luiz",
+          "role": "C",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 20,
+          "name": "Douvikas",
+          "role": "A",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 146,
+          "name": "Dovbyk",
+          "role": "A",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 58,
+          "name": "Dragusin",
+          "role": "D",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 272,
+          "name": "Dybala",
+          "role": "A",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 139,
+          "name": "Ederson D.S.",
+          "role": "C",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 140,
+          "name": "El Shaarawy",
+          "role": "C",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 141,
+          "name": "Elmas",
+          "role": "C",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 147,
+          "name": "Enem",
+          "role": "A",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 157,
+          "name": "Estupinian",
+          "role": "D",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 103,
+          "name": "Falcone",
+          "role": "P",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 15,
+          "name": "Fazzini",
+          "role": "C",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 188,
+          "name": "Fitz-Jim",
+          "role": "C",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 5,
+          "name": "Floriani Mussolini",
+          "role": "D",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 90,
+          "name": "Folorunsho",
+          "role": "C",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 6,
+          "name": "Fortini",
+          "role": "D",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 16,
+          "name": "Frattesi",
+          "role": "C",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 65,
+          "name": "Frendrup",
+          "role": "C",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 189,
+          "name": "Gaetano",
+          "role": "C",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 281,
+          "name": "Gallo",
+          "role": "D",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 282,
+          "name": "Gatti",
+          "role": "D",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 170,
+          "name": "Geubbels",
+          "role": "A",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 171,
+          "name": "Ghedjemis",
+          "role": "A",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 130,
+          "name": "Ghilardi",
+          "role": "D",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 59,
+          "name": "Gila",
+          "role": "D",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 297,
+          "name": "Gnonto",
+          "role": "A",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 153,
+          "name": "Gollini",
+          "role": "P",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 66,
+          "name": "Goncalves P.",
+          "role": "C",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 114,
+          "name": "Gonzalez N.",
+          "role": "C",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 126,
+          "name": "Grabara",
+          "role": "P",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 291,
+          "name": "Gudmundsson A.",
+          "role": "C",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 207,
+          "name": "Heggem",
+          "role": "D",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 231,
+          "name": "Helland",
+          "role": "D",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 83,
+          "name": "Hermoso",
+          "role": "D",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 31,
+          "name": "Hien",
+          "role": "D",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 196,
+          "name": "Hojlund",
+          "role": "A",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 208,
+          "name": "Holm",
+          "role": "D",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 115,
+          "name": "Hutchinson",
+          "role": "C",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 181,
+          "name": "Idzes",
+          "role": "D",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 40,
+          "name": "Jones C.",
+          "role": "C",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 106,
+          "name": "Kabasele",
+          "role": "D",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 182,
+          "name": "Kalulu",
+          "role": "D",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 84,
+          "name": "Kamara H.",
+          "role": "D",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 67,
+          "name": "Karlstrom",
+          "role": "C",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 148,
+          "name": "Kean",
+          "role": "A",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 209,
+          "name": "Kempf",
+          "role": "D",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 265,
+          "name": "Kessiè",
+          "role": "C",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 22,
+          "name": "Kevin Carlos",
+          "role": "A",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 232,
+          "name": "Kolasinac",
+          "role": "D",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 131,
+          "name": "Kossounou",
+          "role": "D",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 256,
+          "name": "Kourielakis",
+          "role": "D",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 257,
+          "name": "Kristensen T.",
+          "role": "D",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 49,
+          "name": "Krstovic",
+          "role": "A",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 221,
+          "name": "Lang",
+          "role": "A",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 183,
+          "name": "Leysen F.",
+          "role": "D",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 116,
+          "name": "Locatelli",
+          "role": "C",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 240,
+          "name": "Loftus-Cheek",
+          "role": "C",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 222,
+          "name": "Lontani",
+          "role": "A",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 150,
+          "name": "Lucca",
+          "role": "A",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 258,
+          "name": "Lucumì",
+          "role": "D",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 132,
+          "name": "Lulli",
+          "role": "D",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 276,
+          "name": "Maignan",
+          "role": "P",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 259,
+          "name": "Mancini",
+          "role": "D",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 1,
+          "name": "Mandas",
+          "role": "P",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 260,
+          "name": "Marcandalli",
+          "role": "D",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 32,
+          "name": "Marin R.",
+          "role": "D",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 27,
+          "name": "Martinez Jo.",
+          "role": "P",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 7,
+          "name": "Marusic",
+          "role": "D",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 251,
+          "name": "Mascardi",
+          "role": "P",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 210,
+          "name": "Mazzocchi",
+          "role": "D",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 216,
+          "name": "McKennie",
+          "role": "C",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 68,
+          "name": "McTominay",
+          "role": "C",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 77,
+          "name": "Meret",
+          "role": "P",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 298,
+          "name": "Milik",
+          "role": "A",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 78,
+          "name": "Milinkovic-Savic V.",
+          "role": "P",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 217,
+          "name": "Milla",
+          "role": "C",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 159,
+          "name": "Mina",
+          "role": "D",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 33,
+          "name": "Miranda J.",
+          "role": "D",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 293,
+          "name": "Mkhitaryan",
+          "role": "C",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 268,
+          "name": "Modric",
+          "role": "C",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 108,
+          "name": "Monterisi",
+          "role": "D",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 190,
+          "name": "Mora",
+          "role": "C",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 241,
+          "name": "Moro N.",
+          "role": "C",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 247,
+          "name": "Mota",
+          "role": "A",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 2,
+          "name": "Motta",
+          "role": "P",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 18,
+          "name": "Mout",
+          "role": "C",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 52,
+          "name": "Mrozek",
+          "role": "P",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 177,
+          "name": "Muric",
+          "role": "P",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 233,
+          "name": "N'Dicka",
+          "role": "D",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 248,
+          "name": "N'Dri",
+          "role": "A",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 98,
+          "name": "Neres",
+          "role": "A",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 174,
+          "name": "Ngonge",
+          "role": "A",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 184,
+          "name": "Obert",
+          "role": "D",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 53,
+          "name": "Okoye",
+          "role": "P",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 117,
+          "name": "Orsolini",
+          "role": "C",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 8,
+          "name": "Ostigard",
+          "role": "D",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 9,
+          "name": "Otoa",
+          "role": "D",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 185,
+          "name": "Oyono A.",
+          "role": "D",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 202,
+          "name": "Palmisani",
+          "role": "P",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 191,
+          "name": "Pasalic",
+          "role": "C",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 10,
+          "name": "Patterson",
+          "role": "D",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 35,
+          "name": "Pedraza",
+          "role": "D",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 42,
+          "name": "Pellegrini Lo.",
+          "role": "C",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 252,
+          "name": "Perri",
+          "role": "P",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 192,
+          "name": "Perrone",
+          "role": "C",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 151,
+          "name": "Piccoli",
+          "role": "A",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 197,
+          "name": "Pinamonti",
+          "role": "A",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 127,
+          "name": "Pinsoglio",
+          "role": "P",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 91,
+          "name": "Pobega",
+          "role": "C",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 28,
+          "name": "Provedel",
+          "role": "P",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 274,
+          "name": "Raimondo",
+          "role": "A",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 250,
+          "name": "Raspadori",
+          "role": "A",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 133,
+          "name": "Rensch",
+          "role": "D",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 3,
+          "name": "Renzetti",
+          "role": "P",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 199,
+          "name": "Robinho Junior",
+          "role": "A",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 243,
+          "name": "Rodriguez Je.",
+          "role": "C",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 161,
+          "name": "Rodriguez Ju",
+          "role": "D",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 193,
+          "name": "Romano",
+          "role": "C",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 143,
+          "name": "Rowe",
+          "role": "C",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 109,
+          "name": "Rrahmani",
+          "role": "D",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 73,
+          "name": "Rrahmani Al.",
+          "role": "A",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 244,
+          "name": "Saelemaekers",
+          "role": "C",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 144,
+          "name": "Samardzic",
+          "role": "C",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 227,
+          "name": "Sanchez Ro.",
+          "role": "P",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 125,
+          "name": "Santos A.",
+          "role": "A",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 169,
+          "name": "Sarr P.",
+          "role": "C",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 134,
+          "name": "Scalvini",
+          "role": "D",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 74,
+          "name": "Simeone",
+          "role": "A",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 253,
+          "name": "Siviero",
+          "role": "P",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 178,
+          "name": "Skorupski",
+          "role": "P",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 85,
+          "name": "Solet",
+          "role": "D",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 175,
+          "name": "Soluè",
+          "role": "A",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 60,
+          "name": "Spence",
+          "role": "D",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 284,
+          "name": "Spinazzola",
+          "role": "D",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 203,
+          "name": "Sportiello",
+          "role": "P",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 36,
+          "name": "Stones",
+          "role": "D",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 200,
+          "name": "Stulic",
+          "role": "A",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 119,
+          "name": "Sucic P.",
+          "role": "C",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 285,
+          "name": "Sugawara",
+          "role": "D",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 23,
+          "name": "Sulemana K.",
+          "role": "A",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 154,
+          "name": "Svilar",
+          "role": "P",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 43,
+          "name": "Taylor K.",
+          "role": "C",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 162,
+          "name": "Tchato",
+          "role": "D",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 277,
+          "name": "Terracciano",
+          "role": "P",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 286,
+          "name": "Theate",
+          "role": "D",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 92,
+          "name": "Thorstvedt",
+          "role": "C",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 278,
+          "name": "Torriani",
+          "role": "P",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 211,
+          "name": "Troilo",
+          "role": "D",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 186,
+          "name": "Valdepenas",
+          "role": "D",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 61,
+          "name": "Valeri",
+          "role": "D",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 111,
+          "name": "Valle",
+          "role": "D",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 93,
+          "name": "Vergara",
+          "role": "C",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 128,
+          "name": "Vicario",
+          "role": "P",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 228,
+          "name": "Vigorito",
+          "role": "P",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 225,
+          "name": "Vitinha O.",
+          "role": "A",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 194,
+          "name": "Vlasic",
+          "role": "C",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 86,
+          "name": "Vojvoda",
+          "role": "D",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 218,
+          "name": "Volpato",
+          "role": "C",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 135,
+          "name": "Wesley",
+          "role": "D",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 25,
+          "name": "Woltemade",
+          "role": "A",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 100,
+          "name": "Yeboah J.",
+          "role": "A",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 300,
+          "name": "Yildiz",
+          "role": "A",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 145,
+          "name": "Zalewski",
+          "role": "C",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 269,
+          "name": "Zambo Anguissa",
+          "role": "C",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 69,
+          "name": "Zaniolo",
+          "role": "C",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 50,
+          "name": "Zapata D.",
+          "role": "A",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 137,
+          "name": "Zappacosta",
+          "role": "D",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 219,
+          "name": "Zerbin",
+          "role": "C",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 236,
+          "name": "Ziolkowski",
+          "role": "D",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 261,
+          "name": "Zortea",
+          "role": "D",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        }
+      ],
+      "league_assistmen": [
+        {
+          "player_id": 19,
+          "name": "Schmid",
+          "role": "C",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 3
+        },
+        {
+          "player_id": 75,
+          "name": "Thuram",
+          "role": "A",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 1,
+          "assists": 2
+        },
+        {
+          "player_id": 294,
+          "name": "Zhegrova",
+          "role": "C",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 2,
+          "assists": 1
+        },
+        {
+          "player_id": 283,
+          "name": "Jimenez A.",
+          "role": "D",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 1,
+          "assists": 1
+        },
+        {
+          "player_id": 118,
+          "name": "Pulisic",
+          "role": "C",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 1,
+          "assists": 1
+        },
+        {
+          "player_id": 44,
+          "name": "Zaccagni",
+          "role": "C",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 1,
+          "assists": 1
+        },
+        {
+          "player_id": 187,
+          "name": "Adopo",
+          "role": "C",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 64,
+          "name": "Busio",
+          "role": "C",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 229,
+          "name": "Celik",
+          "role": "D",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 72,
+          "name": "Colombo",
+          "role": "A",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 96,
+          "name": "Davis K.",
+          "role": "A",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 289,
+          "name": "Diouf",
+          "role": "C",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 21,
+          "name": "Elphege",
+          "role": "A",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 39,
+          "name": "Fagioli",
+          "role": "C",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 123,
+          "name": "Kolo Muani",
+          "role": "A",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 149,
+          "name": "Laureintè",
+          "role": "A",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 17,
+          "name": "Mandragora",
+          "role": "C",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 267,
+          "name": "Matic",
+          "role": "C",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 34,
+          "name": "Molina N.",
+          "role": "D",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 160,
+          "name": "Pavlovic",
+          "role": "D",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 41,
+          "name": "Paz N.",
+          "role": "C",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 142,
+          "name": "Politano",
+          "role": "C",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 249,
+          "name": "Ramos G.",
+          "role": "A",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 110,
+          "name": "Tavares N.",
+          "role": "D",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 24,
+          "name": "Tourè E.",
+          "role": "A",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 94,
+          "name": "Zielinski",
+          "role": "C",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 1
+        },
+        {
+          "player_id": 292,
+          "name": "Mastantuono",
+          "role": "C",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 3,
+          "assists": 0
+        },
+        {
+          "player_id": 167,
+          "name": "Moreira",
+          "role": "C",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 3,
+          "assists": 0
+        },
+        {
+          "player_id": 212,
+          "name": "Adzic",
+          "role": "C",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 89,
+          "name": "Coulibaly L.",
+          "role": "C",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 266,
+          "name": "Konè M.",
+          "role": "C",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 172,
+          "name": "Kvernadze",
+          "role": "A",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 223,
+          "name": "Maldini",
+          "role": "A",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 173,
+          "name": "Martinez L.",
+          "role": "A",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 198,
+          "name": "Noslin",
+          "role": "A",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 124,
+          "name": "Romero D.",
+          "role": "A",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 275,
+          "name": "Varela G.",
+          "role": "A",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 2,
+          "assists": 0
+        },
+        {
+          "player_id": 45,
+          "name": "Adams A.",
+          "role": "A",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 13,
+          "name": "Barella",
+          "role": "C",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 288,
+          "name": "Bernardeschi",
+          "role": "C",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 246,
+          "name": "Bonny",
+          "role": "A",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 71,
+          "name": "Bowie",
+          "role": "A",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 279,
+          "name": "Bremer",
+          "role": "D",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 213,
+          "name": "Calò",
+          "role": "C",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 301,
+          "name": "Cancellieri",
+          "role": "C",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 56,
+          "name": "Carlos Augusto",
+          "role": "D",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 166,
+          "name": "Conceicao",
+          "role": "C",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 215,
+          "name": "Ekkelenkamp",
+          "role": "C",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 48,
+          "name": "Esposito F.P.",
+          "role": "A",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 122,
+          "name": "Esposito Se.",
+          "role": "A",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 195,
+          "name": "Gueye",
+          "role": "A",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 107,
+          "name": "Kaiki",
+          "role": "D",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 220,
+          "name": "Kulenovic",
+          "role": "A",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 239,
+          "name": "Lobotka",
+          "role": "C",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 224,
+          "name": "Malen",
+          "role": "A",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 158,
+          "name": "Mangas",
+          "role": "D",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 97,
+          "name": "Mendy P.",
+          "role": "A",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 99,
+          "name": "Osmajic",
+          "role": "A",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 273,
+          "name": "Pellegrino M.",
+          "role": "A",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 242,
+          "name": "Pisilli",
+          "role": "C",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 168,
+          "name": "Rabiot",
+          "role": "C",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 234,
+          "name": "Ramon",
+          "role": "D",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 299,
+          "name": "Scamacca",
+          "role": "A",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 235,
+          "name": "Tiago Gabriel",
+          "role": "D",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 11,
+          "name": "Vasquez",
+          "role": "D",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 1,
+          "assists": 0
+        },
+        {
+          "player_id": 62,
+          "name": "Aboukhlal",
+          "role": "C",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 270,
+          "name": "Adams C.",
+          "role": "A",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 54,
+          "name": "Akanji",
+          "role": "D",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 12,
+          "name": "Akinsanmiro",
+          "role": "C",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 163,
+          "name": "Alajbegovic",
+          "role": "C",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 112,
+          "name": "Atta",
+          "role": "C",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 104,
+          "name": "Badiashile",
+          "role": "D",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 164,
+          "name": "Baldanzi",
+          "role": "C",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 29,
+          "name": "Balerdi",
+          "role": "D",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 155,
+          "name": "Bartesaghi",
+          "role": "D",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 262,
+          "name": "Basic",
+          "role": "C",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 204,
+          "name": "Bastoni",
+          "role": "D",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 63,
+          "name": "Baturina",
+          "role": "C",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 46,
+          "name": "Bayo V.",
+          "role": "A",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 254,
+          "name": "Belghali",
+          "role": "D",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 55,
+          "name": "Bella-Kotchap",
+          "role": "D",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 129,
+          "name": "Bellanova",
+          "role": "D",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 295,
+          "name": "Berardi",
+          "role": "A",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 237,
+          "name": "Berisha M.",
+          "role": "C",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 287,
+          "name": "Bernabè",
+          "role": "C",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 79,
+          "name": "Bernasconi",
+          "role": "D",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 47,
+          "name": "Beto",
+          "role": "A",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 51,
+          "name": "Bijlow",
+          "role": "P",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 80,
+          "name": "Bisseck",
+          "role": "D",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 70,
+          "name": "Bobcek",
+          "role": "A",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 245,
+          "name": "Boga",
+          "role": "A",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 205,
+          "name": "Bracaglia",
+          "role": "D",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 226,
+          "name": "Butez",
+          "role": "P",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 179,
+          "name": "Cabal",
+          "role": "D",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 263,
+          "name": "Cacciamani",
+          "role": "C",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 4,
+          "name": "Caleta-Car",
+          "role": "D",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 87,
+          "name": "Calhanoglu",
+          "role": "C",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 95,
+          "name": "Camarda",
+          "role": "A",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 138,
+          "name": "Cambiaghi",
+          "role": "C",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 30,
+          "name": "Cambiaso",
+          "role": "D",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 176,
+          "name": "Caprile",
+          "role": "P",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 214,
+          "name": "Caqueret",
+          "role": "C",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 201,
+          "name": "Carnesecchi",
+          "role": "P",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 88,
+          "name": "Casadei",
+          "role": "C",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 271,
+          "name": "Castro S.",
+          "role": "A",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 81,
+          "name": "Chalobah T.",
+          "role": "D",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 238,
+          "name": "Chukwueze",
+          "role": "C",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 165,
+          "name": "Cissè A.",
+          "role": "C",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 37,
+          "name": "Colpani",
+          "role": "C",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 230,
+          "name": "Comuzzo",
+          "role": "D",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 76,
+          "name": "Contini",
+          "role": "P",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 101,
+          "name": "Corvi",
+          "role": "P",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 82,
+          "name": "Couto",
+          "role": "D",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 264,
+          "name": "Cristante",
+          "role": "C",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 120,
+          "name": "Cutrone",
+          "role": "A",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 14,
+          "name": "Da Cunha",
+          "role": "C",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 113,
+          "name": "De Bruyne",
+          "role": "C",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 102,
+          "name": "De Gea",
+          "role": "P",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 121,
+          "name": "De Ketelare",
+          "role": "A",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 152,
+          "name": "De Marzi",
+          "role": "P",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 38,
+          "name": "De Roon",
+          "role": "C",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 206,
+          "name": "De Winter",
+          "role": "D",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 156,
+          "name": "Delprato",
+          "role": "D",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 26,
+          "name": "Di Gennaro",
+          "role": "P",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 105,
+          "name": "Di Lorenzo",
+          "role": "D",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 296,
+          "name": "Diao",
+          "role": "A",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 255,
+          "name": "Diego Carlos",
+          "role": "D",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 57,
+          "name": "Dimarco",
+          "role": "D",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 280,
+          "name": "Dodò",
+          "role": "D",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 180,
+          "name": "Doekhi",
+          "role": "D",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 290,
+          "name": "Douglas Luiz",
+          "role": "C",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 20,
+          "name": "Douvikas",
+          "role": "A",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 146,
+          "name": "Dovbyk",
+          "role": "A",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 58,
+          "name": "Dragusin",
+          "role": "D",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 272,
+          "name": "Dybala",
+          "role": "A",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 139,
+          "name": "Ederson D.S.",
+          "role": "C",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 140,
+          "name": "El Shaarawy",
+          "role": "C",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 141,
+          "name": "Elmas",
+          "role": "C",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 147,
+          "name": "Enem",
+          "role": "A",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 157,
+          "name": "Estupinian",
+          "role": "D",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 103,
+          "name": "Falcone",
+          "role": "P",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 15,
+          "name": "Fazzini",
+          "role": "C",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 188,
+          "name": "Fitz-Jim",
+          "role": "C",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 5,
+          "name": "Floriani Mussolini",
+          "role": "D",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 90,
+          "name": "Folorunsho",
+          "role": "C",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 6,
+          "name": "Fortini",
+          "role": "D",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 16,
+          "name": "Frattesi",
+          "role": "C",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 65,
+          "name": "Frendrup",
+          "role": "C",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 189,
+          "name": "Gaetano",
+          "role": "C",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 281,
+          "name": "Gallo",
+          "role": "D",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 282,
+          "name": "Gatti",
+          "role": "D",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 170,
+          "name": "Geubbels",
+          "role": "A",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 171,
+          "name": "Ghedjemis",
+          "role": "A",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 130,
+          "name": "Ghilardi",
+          "role": "D",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 59,
+          "name": "Gila",
+          "role": "D",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 297,
+          "name": "Gnonto",
+          "role": "A",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 153,
+          "name": "Gollini",
+          "role": "P",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 66,
+          "name": "Goncalves P.",
+          "role": "C",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 114,
+          "name": "Gonzalez N.",
+          "role": "C",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 126,
+          "name": "Grabara",
+          "role": "P",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 291,
+          "name": "Gudmundsson A.",
+          "role": "C",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 207,
+          "name": "Heggem",
+          "role": "D",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 231,
+          "name": "Helland",
+          "role": "D",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 83,
+          "name": "Hermoso",
+          "role": "D",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 31,
+          "name": "Hien",
+          "role": "D",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 196,
+          "name": "Hojlund",
+          "role": "A",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 208,
+          "name": "Holm",
+          "role": "D",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 115,
+          "name": "Hutchinson",
+          "role": "C",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 181,
+          "name": "Idzes",
+          "role": "D",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 40,
+          "name": "Jones C.",
+          "role": "C",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 106,
+          "name": "Kabasele",
+          "role": "D",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 182,
+          "name": "Kalulu",
+          "role": "D",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 84,
+          "name": "Kamara H.",
+          "role": "D",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 67,
+          "name": "Karlstrom",
+          "role": "C",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 148,
+          "name": "Kean",
+          "role": "A",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 209,
+          "name": "Kempf",
+          "role": "D",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 265,
+          "name": "Kessiè",
+          "role": "C",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 22,
+          "name": "Kevin Carlos",
+          "role": "A",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 232,
+          "name": "Kolasinac",
+          "role": "D",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 131,
+          "name": "Kossounou",
+          "role": "D",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 256,
+          "name": "Kourielakis",
+          "role": "D",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 257,
+          "name": "Kristensen T.",
+          "role": "D",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 49,
+          "name": "Krstovic",
+          "role": "A",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 221,
+          "name": "Lang",
+          "role": "A",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 183,
+          "name": "Leysen F.",
+          "role": "D",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 116,
+          "name": "Locatelli",
+          "role": "C",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 240,
+          "name": "Loftus-Cheek",
+          "role": "C",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 222,
+          "name": "Lontani",
+          "role": "A",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 150,
+          "name": "Lucca",
+          "role": "A",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 258,
+          "name": "Lucumì",
+          "role": "D",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 132,
+          "name": "Lulli",
+          "role": "D",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 276,
+          "name": "Maignan",
+          "role": "P",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 259,
+          "name": "Mancini",
+          "role": "D",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 1,
+          "name": "Mandas",
+          "role": "P",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 260,
+          "name": "Marcandalli",
+          "role": "D",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 32,
+          "name": "Marin R.",
+          "role": "D",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 27,
+          "name": "Martinez Jo.",
+          "role": "P",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 7,
+          "name": "Marusic",
+          "role": "D",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 251,
+          "name": "Mascardi",
+          "role": "P",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 210,
+          "name": "Mazzocchi",
+          "role": "D",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 216,
+          "name": "McKennie",
+          "role": "C",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 68,
+          "name": "McTominay",
+          "role": "C",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 77,
+          "name": "Meret",
+          "role": "P",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 298,
+          "name": "Milik",
+          "role": "A",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 78,
+          "name": "Milinkovic-Savic V.",
+          "role": "P",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 217,
+          "name": "Milla",
+          "role": "C",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 159,
+          "name": "Mina",
+          "role": "D",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 33,
+          "name": "Miranda J.",
+          "role": "D",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 293,
+          "name": "Mkhitaryan",
+          "role": "C",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 268,
+          "name": "Modric",
+          "role": "C",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 108,
+          "name": "Monterisi",
+          "role": "D",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 190,
+          "name": "Mora",
+          "role": "C",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 241,
+          "name": "Moro N.",
+          "role": "C",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 247,
+          "name": "Mota",
+          "role": "A",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 2,
+          "name": "Motta",
+          "role": "P",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 18,
+          "name": "Mout",
+          "role": "C",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 52,
+          "name": "Mrozek",
+          "role": "P",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 177,
+          "name": "Muric",
+          "role": "P",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 233,
+          "name": "N'Dicka",
+          "role": "D",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 248,
+          "name": "N'Dri",
+          "role": "A",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 98,
+          "name": "Neres",
+          "role": "A",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 174,
+          "name": "Ngonge",
+          "role": "A",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 184,
+          "name": "Obert",
+          "role": "D",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 53,
+          "name": "Okoye",
+          "role": "P",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 117,
+          "name": "Orsolini",
+          "role": "C",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 8,
+          "name": "Ostigard",
+          "role": "D",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 9,
+          "name": "Otoa",
+          "role": "D",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 185,
+          "name": "Oyono A.",
+          "role": "D",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 202,
+          "name": "Palmisani",
+          "role": "P",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 191,
+          "name": "Pasalic",
+          "role": "C",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 10,
+          "name": "Patterson",
+          "role": "D",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 35,
+          "name": "Pedraza",
+          "role": "D",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 42,
+          "name": "Pellegrini Lo.",
+          "role": "C",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 252,
+          "name": "Perri",
+          "role": "P",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 192,
+          "name": "Perrone",
+          "role": "C",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 151,
+          "name": "Piccoli",
+          "role": "A",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 197,
+          "name": "Pinamonti",
+          "role": "A",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 127,
+          "name": "Pinsoglio",
+          "role": "P",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 91,
+          "name": "Pobega",
+          "role": "C",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 28,
+          "name": "Provedel",
+          "role": "P",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 274,
+          "name": "Raimondo",
+          "role": "A",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 250,
+          "name": "Raspadori",
+          "role": "A",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 133,
+          "name": "Rensch",
+          "role": "D",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 3,
+          "name": "Renzetti",
+          "role": "P",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 199,
+          "name": "Robinho Junior",
+          "role": "A",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 243,
+          "name": "Rodriguez Je.",
+          "role": "C",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 161,
+          "name": "Rodriguez Ju",
+          "role": "D",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 193,
+          "name": "Romano",
+          "role": "C",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 143,
+          "name": "Rowe",
+          "role": "C",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 109,
+          "name": "Rrahmani",
+          "role": "D",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 73,
+          "name": "Rrahmani Al.",
+          "role": "A",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 244,
+          "name": "Saelemaekers",
+          "role": "C",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 144,
+          "name": "Samardzic",
+          "role": "C",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 227,
+          "name": "Sanchez Ro.",
+          "role": "P",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 125,
+          "name": "Santos A.",
+          "role": "A",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 169,
+          "name": "Sarr P.",
+          "role": "C",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 134,
+          "name": "Scalvini",
+          "role": "D",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 74,
+          "name": "Simeone",
+          "role": "A",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 253,
+          "name": "Siviero",
+          "role": "P",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 178,
+          "name": "Skorupski",
+          "role": "P",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 85,
+          "name": "Solet",
+          "role": "D",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 175,
+          "name": "Soluè",
+          "role": "A",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 60,
+          "name": "Spence",
+          "role": "D",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 284,
+          "name": "Spinazzola",
+          "role": "D",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 203,
+          "name": "Sportiello",
+          "role": "P",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 36,
+          "name": "Stones",
+          "role": "D",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 200,
+          "name": "Stulic",
+          "role": "A",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 119,
+          "name": "Sucic P.",
+          "role": "C",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 285,
+          "name": "Sugawara",
+          "role": "D",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 23,
+          "name": "Sulemana K.",
+          "role": "A",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 154,
+          "name": "Svilar",
+          "role": "P",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 43,
+          "name": "Taylor K.",
+          "role": "C",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 162,
+          "name": "Tchato",
+          "role": "D",
+          "team_id": 9,
+          "team_name": "Palermithanos",
+          "team_logo": "assets/logos/team_6_9.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 277,
+          "name": "Terracciano",
+          "role": "P",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 286,
+          "name": "Theate",
+          "role": "D",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 92,
+          "name": "Thorstvedt",
+          "role": "C",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 278,
+          "name": "Torriani",
+          "role": "P",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 211,
+          "name": "Troilo",
+          "role": "D",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 186,
+          "name": "Valdepenas",
+          "role": "D",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 61,
+          "name": "Valeri",
+          "role": "D",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 111,
+          "name": "Valle",
+          "role": "D",
+          "team_id": 4,
+          "team_name": "New Team",
+          "team_logo": "assets/logos/team_6_4.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 93,
+          "name": "Vergara",
+          "role": "C",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 128,
+          "name": "Vicario",
+          "role": "P",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 228,
+          "name": "Vigorito",
+          "role": "P",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 225,
+          "name": "Vitinha O.",
+          "role": "A",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 194,
+          "name": "Vlasic",
+          "role": "C",
+          "team_id": 10,
+          "team_name": "Pescaramanzia",
+          "team_logo": "assets/logos/team_6_10.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 86,
+          "name": "Vojvoda",
+          "role": "D",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 218,
+          "name": "Volpato",
+          "role": "C",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 135,
+          "name": "Wesley",
+          "role": "D",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 25,
+          "name": "Woltemade",
+          "role": "A",
+          "team_id": 5,
+          "team_name": "Atletico ma non troppo",
+          "team_logo": "assets/logos/team_6_5.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 100,
+          "name": "Yeboah J.",
+          "role": "A",
+          "team_id": 8,
+          "team_name": "Invisibili",
+          "team_logo": "assets/logos/team_6_8.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 300,
+          "name": "Yildiz",
+          "role": "A",
+          "team_id": 13,
+          "team_name": "Yildiz-Astro",
+          "team_logo": "assets/logos/team_6_13.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 145,
+          "name": "Zalewski",
+          "role": "C",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 269,
+          "name": "Zambo Anguissa",
+          "role": "C",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 69,
+          "name": "Zaniolo",
+          "role": "C",
+          "team_id": 7,
+          "team_name": "Hellas Madonna",
+          "team_logo": "assets/logos/team_6_7.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 50,
+          "name": "Zapata D.",
+          "role": "A",
+          "team_id": 1,
+          "team_name": "Extraction Team",
+          "team_logo": "assets/logos/team_6_1.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 137,
+          "name": "Zappacosta",
+          "role": "D",
+          "team_id": 3,
+          "team_name": "Old Towers",
+          "team_logo": "assets/logos/team_6_3.png",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 219,
+          "name": "Zerbin",
+          "role": "C",
+          "team_id": 6,
+          "team_name": "Sporting Lisbronzi",
+          "team_logo": "assets/logos/team_6_6.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 236,
+          "name": "Ziolkowski",
+          "role": "D",
+          "team_id": 11,
+          "team_name": "Temptation Haaland",
+          "team_logo": "assets/logos/team_6_11.jpeg",
+          "goals": 0,
+          "assists": 0
+        },
+        {
+          "player_id": 261,
+          "name": "Zortea",
+          "role": "D",
+          "team_id": 12,
+          "team_name": "Tibia e peroni",
+          "team_logo": "assets/logos/team_6_12.jpeg",
+          "goals": 0,
+          "assists": 0
+        }
+      ],
+      "scoring_record": {
+        "goals": 5,
+        "performances": [
+          {
+            "match_id": 7,
+            "round_no": 2,
+            "match_date": "20/09/2026",
+            "team_id": 9,
+            "team_name": "Palermithanos",
+            "opponent_id": 6,
+            "opponent_name": "Sporting Lisbronzi",
+            "goals": 5,
+            "home_name": "Sporting Lisbronzi",
+            "away_name": "Palermithanos",
+            "home_score": 2,
+            "away_score": 5
+          }
+        ]
+      },
       "champion": null
     },
     {
@@ -3396,6 +9419,9 @@
           "position": 1
         }
       ],
+      "league_scorers": [],
+      "league_assistmen": [],
+      "scoring_record": null,
       "champion": {
         "id": 5,
         "season_id": 5,
@@ -3436,6 +9462,9 @@
           "position": 1
         }
       ],
+      "league_scorers": [],
+      "league_assistmen": [],
+      "scoring_record": null,
       "champion": {
         "id": 4,
         "season_id": 4,
@@ -3476,6 +9505,9 @@
           "position": 1
         }
       ],
+      "league_scorers": [],
+      "league_assistmen": [],
+      "scoring_record": null,
       "champion": {
         "id": 3,
         "season_id": 3,
@@ -3516,6 +9548,9 @@
           "position": 1
         }
       ],
+      "league_scorers": [],
+      "league_assistmen": [],
+      "scoring_record": null,
       "champion": {
         "id": 2,
         "season_id": 2,
@@ -3556,6 +9591,9 @@
           "position": 1
         }
       ],
+      "league_scorers": [],
+      "league_assistmen": [],
+      "scoring_record": null,
       "champion": {
         "id": 1,
         "season_id": 1,
