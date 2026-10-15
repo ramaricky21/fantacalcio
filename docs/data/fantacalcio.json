@@ -1,7 +1,7 @@
 {
   "league_name": "AC Denti League",
   "current_season_id": 6,
-  "generated_at": "2026-10-13T17:37:41",
+  "generated_at": "2026-10-15T15:19:40",
   "seasons": [
     {
       "id": 6,
@@ -194,7 +194,7 @@
         {
           "id": 1,
           "name": "Extraction Team",
-          "logo": "assets/logos/team_6_1.png",
+          "logo": "assets/logos/team_6_1.jpeg",
           "coach": "Francesco",
           "roster": [
             {
@@ -926,7 +926,7 @@
         {
           "id": 3,
           "name": "Old Towers",
-          "logo": "assets/logos/team_6_3.png",
+          "logo": "assets/logos/team_6_3.jpeg",
           "coach": "Lorenzo",
           "roster": [
             {
@@ -1292,7 +1292,7 @@
         {
           "id": 10,
           "name": "Pescaramanzia",
-          "logo": "assets/logos/team_6_10.png",
+          "logo": "assets/logos/team_6_10.jpeg",
           "coach": "Silvia",
           "roster": [
             {
@@ -2325,7 +2325,7 @@
           "notes": "",
           "home_name": "Extraction Team",
           "away_name": "Tibia e peroni",
-          "home_logo": "assets/logos/team_6_1.png",
+          "home_logo": "assets/logos/team_6_1.jpeg",
           "away_logo": "assets/logos/team_6_12.jpeg",
           "stats": [
             {
@@ -2606,8 +2606,8 @@
           "notes": "",
           "home_name": "Pescaramanzia",
           "away_name": "Old Towers",
-          "home_logo": "assets/logos/team_6_10.png",
-          "away_logo": "assets/logos/team_6_3.png",
+          "home_logo": "assets/logos/team_6_10.jpeg",
+          "away_logo": "assets/logos/team_6_3.jpeg",
           "stats": [
             {
               "id": 36,
@@ -2888,7 +2888,7 @@
           "home_name": "Yildiz-Astro",
           "away_name": "Extraction Team",
           "home_logo": "assets/logos/team_6_13.jpeg",
-          "away_logo": "assets/logos/team_6_1.png",
+          "away_logo": "assets/logos/team_6_1.jpeg",
           "stats": [
             {
               "id": 61,
@@ -3031,7 +3031,7 @@
           "notes": "",
           "home_name": "Old Towers",
           "away_name": "Hellas Madonna",
-          "home_logo": "assets/logos/team_6_3.png",
+          "home_logo": "assets/logos/team_6_3.jpeg",
           "away_logo": "assets/logos/team_6_7.jpeg",
           "stats": [
             {
@@ -3126,7 +3126,7 @@
           "home_name": "Atletico ma non troppo",
           "away_name": "Pescaramanzia",
           "home_logo": "assets/logos/team_6_5.png",
-          "away_logo": "assets/logos/team_6_10.png",
+          "away_logo": "assets/logos/team_6_10.jpeg",
           "stats": [
             {
               "id": 77,
@@ -3260,7 +3260,7 @@
           "home_name": "Invisibili",
           "away_name": "Extraction Team",
           "home_logo": "assets/logos/team_6_8.jpeg",
-          "away_logo": "assets/logos/team_6_1.png",
+          "away_logo": "assets/logos/team_6_1.jpeg",
           "stats": [
             {
               "id": 91,
@@ -3327,7 +3327,7 @@
           "home_name": "Temptation Haaland",
           "away_name": "Old Towers",
           "home_logo": "assets/logos/team_6_11.jpeg",
-          "away_logo": "assets/logos/team_6_3.png",
+          "away_logo": "assets/logos/team_6_3.jpeg",
           "stats": [
             {
               "id": 94,
@@ -3470,7 +3470,7 @@
           "notes": "",
           "home_name": "Pescaramanzia",
           "away_name": "Tibia e peroni",
-          "home_logo": "assets/logos/team_6_10.png",
+          "home_logo": "assets/logos/team_6_10.jpeg",
           "away_logo": "assets/logos/team_6_12.jpeg",
           "stats": [
             {
@@ -3577,7 +3577,7 @@
         {
           "team_id": 1,
           "name": "Extraction Team",
-          "logo": "assets/logos/team_6_1.png",
+          "logo": "assets/logos/team_6_1.jpeg",
           "coach": "Francesco",
           "played": 3,
           "wins": 2,
@@ -3682,7 +3682,7 @@
         {
           "team_id": 3,
           "name": "Old Towers",
-          "logo": "assets/logos/team_6_3.png",
+          "logo": "assets/logos/team_6_3.jpeg",
           "coach": "Lorenzo",
           "played": 3,
           "wins": 0,
@@ -3712,7 +3712,7 @@
         {
           "team_id": 10,
           "name": "Pescaramanzia",
-          "logo": "assets/logos/team_6_10.png",
+          "logo": "assets/logos/team_6_10.jpeg",
           "coach": "Silvia",
           "played": 3,
           "wins": 0,
@@ -3762,7 +3762,7 @@
           "role": "A",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 2,
           "assists": 2
         },
@@ -3782,7 +3782,7 @@
           "role": "A",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 2,
           "assists": 1
         },
@@ -3972,7 +3972,7 @@
           "role": "C",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 1,
           "assists": 1
         },
@@ -3982,7 +3982,7 @@
           "role": "A",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 1,
           "assists": 0
         },
@@ -4092,7 +4092,7 @@
           "role": "A",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 1,
           "assists": 0
         },
@@ -4102,7 +4102,7 @@
           "role": "A",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 1,
           "assists": 0
         },
@@ -4122,7 +4122,7 @@
           "role": "A",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 1,
           "assists": 0
         },
@@ -4212,7 +4212,7 @@
           "role": "A",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 1,
           "assists": 0
         },
@@ -4292,7 +4292,7 @@
           "role": "C",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 2
         },
@@ -4302,7 +4302,7 @@
           "role": "C",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 1
         },
@@ -4372,7 +4372,7 @@
           "role": "C",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 1
         },
@@ -4392,7 +4392,7 @@
           "role": "C",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 1
         },
@@ -4402,7 +4402,7 @@
           "role": "A",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 1
         },
@@ -4452,7 +4452,7 @@
           "role": "D",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 1
         },
@@ -4482,7 +4482,7 @@
           "role": "C",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 1
         },
@@ -4492,7 +4492,7 @@
           "role": "D",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 1
         },
@@ -4502,7 +4502,7 @@
           "role": "C",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 1
         },
@@ -4612,7 +4612,7 @@
           "role": "D",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -4662,7 +4662,7 @@
           "role": "A",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -4692,7 +4692,7 @@
           "role": "D",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -4742,7 +4742,7 @@
           "role": "A",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -4812,7 +4812,7 @@
           "role": "D",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -4852,7 +4852,7 @@
           "role": "D",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -4862,7 +4862,7 @@
           "role": "P",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -4942,7 +4942,7 @@
           "role": "C",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5052,7 +5052,7 @@
           "role": "C",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5082,7 +5082,7 @@
           "role": "P",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5142,7 +5142,7 @@
           "role": "D",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5172,7 +5172,7 @@
           "role": "A",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5202,7 +5202,7 @@
           "role": "C",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5212,7 +5212,7 @@
           "role": "C",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5252,7 +5252,7 @@
           "role": "C",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5312,7 +5312,7 @@
           "role": "C",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5362,7 +5362,7 @@
           "role": "D",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5422,7 +5422,7 @@
           "role": "P",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5472,7 +5472,7 @@
           "role": "D",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5482,7 +5482,7 @@
           "role": "A",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5512,7 +5512,7 @@
           "role": "D",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5522,7 +5522,7 @@
           "role": "C",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5542,7 +5542,7 @@
           "role": "D",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5572,7 +5572,7 @@
           "role": "A",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5612,7 +5612,7 @@
           "role": "D",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5642,7 +5642,7 @@
           "role": "D",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5682,7 +5682,7 @@
           "role": "A",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5702,7 +5702,7 @@
           "role": "D",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5752,7 +5752,7 @@
           "role": "D",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5762,7 +5762,7 @@
           "role": "P",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5872,7 +5872,7 @@
           "role": "D",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5892,7 +5892,7 @@
           "role": "C",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5942,7 +5942,7 @@
           "role": "P",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -5992,7 +5992,7 @@
           "role": "D",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6032,7 +6032,7 @@
           "role": "D",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6052,7 +6052,7 @@
           "role": "C",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6072,7 +6072,7 @@
           "role": "C",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6092,7 +6092,7 @@
           "role": "C",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6102,7 +6102,7 @@
           "role": "A",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6112,7 +6112,7 @@
           "role": "P",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6132,7 +6132,7 @@
           "role": "P",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6162,7 +6162,7 @@
           "role": "D",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6182,7 +6182,7 @@
           "role": "A",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6212,7 +6212,7 @@
           "role": "C",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6222,7 +6222,7 @@
           "role": "C",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6262,7 +6262,7 @@
           "role": "C",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6302,7 +6302,7 @@
           "role": "D",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6332,7 +6332,7 @@
           "role": "P",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6392,7 +6392,7 @@
           "role": "D",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6402,7 +6402,7 @@
           "role": "A",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6442,7 +6442,7 @@
           "role": "C",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6512,7 +6512,7 @@
           "role": "D",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6552,7 +6552,7 @@
           "role": "P",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6582,7 +6582,7 @@
           "role": "C",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6612,7 +6612,7 @@
           "role": "D",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6652,7 +6652,7 @@
           "role": "C",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6682,7 +6682,7 @@
           "role": "A",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6692,7 +6692,7 @@
           "role": "D",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -6744,7 +6744,7 @@
           "role": "A",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 2,
           "assists": 2
         },
@@ -6764,7 +6764,7 @@
           "role": "C",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 2
         },
@@ -6774,7 +6774,7 @@
           "role": "A",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 2,
           "assists": 1
         },
@@ -6854,7 +6854,7 @@
           "role": "C",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 1,
           "assists": 1
         },
@@ -6864,7 +6864,7 @@
           "role": "C",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 1
         },
@@ -6934,7 +6934,7 @@
           "role": "C",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 1
         },
@@ -6954,7 +6954,7 @@
           "role": "C",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 1
         },
@@ -6964,7 +6964,7 @@
           "role": "A",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 1
         },
@@ -7014,7 +7014,7 @@
           "role": "D",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 1
         },
@@ -7044,7 +7044,7 @@
           "role": "C",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 1
         },
@@ -7054,7 +7054,7 @@
           "role": "D",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 1
         },
@@ -7064,7 +7064,7 @@
           "role": "C",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 1
         },
@@ -7244,7 +7244,7 @@
           "role": "A",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 1,
           "assists": 0
         },
@@ -7354,7 +7354,7 @@
           "role": "A",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 1,
           "assists": 0
         },
@@ -7364,7 +7364,7 @@
           "role": "A",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 1,
           "assists": 0
         },
@@ -7384,7 +7384,7 @@
           "role": "A",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 1,
           "assists": 0
         },
@@ -7474,7 +7474,7 @@
           "role": "A",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 1,
           "assists": 0
         },
@@ -7614,7 +7614,7 @@
           "role": "D",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -7664,7 +7664,7 @@
           "role": "A",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -7694,7 +7694,7 @@
           "role": "D",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -7744,7 +7744,7 @@
           "role": "A",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -7814,7 +7814,7 @@
           "role": "D",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -7854,7 +7854,7 @@
           "role": "D",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -7864,7 +7864,7 @@
           "role": "P",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -7944,7 +7944,7 @@
           "role": "C",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8054,7 +8054,7 @@
           "role": "C",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8084,7 +8084,7 @@
           "role": "P",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8144,7 +8144,7 @@
           "role": "D",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8174,7 +8174,7 @@
           "role": "A",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8204,7 +8204,7 @@
           "role": "C",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8214,7 +8214,7 @@
           "role": "C",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8254,7 +8254,7 @@
           "role": "C",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8314,7 +8314,7 @@
           "role": "C",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8364,7 +8364,7 @@
           "role": "D",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8424,7 +8424,7 @@
           "role": "P",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8474,7 +8474,7 @@
           "role": "D",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8484,7 +8484,7 @@
           "role": "A",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8514,7 +8514,7 @@
           "role": "D",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8524,7 +8524,7 @@
           "role": "C",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8544,7 +8544,7 @@
           "role": "D",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8574,7 +8574,7 @@
           "role": "A",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8614,7 +8614,7 @@
           "role": "D",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8644,7 +8644,7 @@
           "role": "D",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8684,7 +8684,7 @@
           "role": "A",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8704,7 +8704,7 @@
           "role": "D",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8754,7 +8754,7 @@
           "role": "D",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8764,7 +8764,7 @@
           "role": "P",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8874,7 +8874,7 @@
           "role": "D",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8894,7 +8894,7 @@
           "role": "C",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8944,7 +8944,7 @@
           "role": "P",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -8994,7 +8994,7 @@
           "role": "D",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9034,7 +9034,7 @@
           "role": "D",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9054,7 +9054,7 @@
           "role": "C",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9074,7 +9074,7 @@
           "role": "C",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9094,7 +9094,7 @@
           "role": "C",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9104,7 +9104,7 @@
           "role": "A",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9114,7 +9114,7 @@
           "role": "P",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9134,7 +9134,7 @@
           "role": "P",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9164,7 +9164,7 @@
           "role": "D",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9184,7 +9184,7 @@
           "role": "A",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9214,7 +9214,7 @@
           "role": "C",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9224,7 +9224,7 @@
           "role": "C",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9264,7 +9264,7 @@
           "role": "C",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9304,7 +9304,7 @@
           "role": "D",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9334,7 +9334,7 @@
           "role": "P",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9394,7 +9394,7 @@
           "role": "D",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9404,7 +9404,7 @@
           "role": "A",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9444,7 +9444,7 @@
           "role": "C",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9514,7 +9514,7 @@
           "role": "D",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9554,7 +9554,7 @@
           "role": "P",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9584,7 +9584,7 @@
           "role": "C",
           "team_id": 10,
           "team_name": "Pescaramanzia",
-          "team_logo": "assets/logos/team_6_10.png",
+          "team_logo": "assets/logos/team_6_10.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9614,7 +9614,7 @@
           "role": "D",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9654,7 +9654,7 @@
           "role": "C",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9684,7 +9684,7 @@
           "role": "A",
           "team_id": 1,
           "team_name": "Extraction Team",
-          "team_logo": "assets/logos/team_6_1.png",
+          "team_logo": "assets/logos/team_6_1.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9694,7 +9694,7 @@
           "role": "D",
           "team_id": 3,
           "team_name": "Old Towers",
-          "team_logo": "assets/logos/team_6_3.png",
+          "team_logo": "assets/logos/team_6_3.jpeg",
           "goals": 0,
           "assists": 0
         },
@@ -9844,7 +9844,7 @@
         {
           "id": 3,
           "name": "Old Towers",
-          "logo": "assets/logos/team_6_3.png",
+          "logo": "assets/logos/team_6_3.jpeg",
           "coach": "Lorenzo",
           "roster": []
         }
@@ -9854,7 +9854,7 @@
         {
           "team_id": 3,
           "name": "Old Towers",
-          "logo": "assets/logos/team_6_3.png",
+          "logo": "assets/logos/team_6_3.jpeg",
           "coach": "Lorenzo",
           "played": 0,
           "wins": 0,
@@ -9876,7 +9876,7 @@
         "team_id": 3,
         "coach_name": "Lorenzo",
         "team_name": "Old Towers",
-        "logo": "assets/logos/team_6_3.png"
+        "logo": "assets/logos/team_6_3.jpeg"
       }
     },
     {
@@ -9930,7 +9930,7 @@
         {
           "id": 1,
           "name": "Extraction Team",
-          "logo": "assets/logos/team_6_1.png",
+          "logo": "assets/logos/team_6_1.jpeg",
           "coach": "Francesco",
           "roster": []
         }
@@ -9940,7 +9940,7 @@
         {
           "team_id": 1,
           "name": "Extraction Team",
-          "logo": "assets/logos/team_6_1.png",
+          "logo": "assets/logos/team_6_1.jpeg",
           "coach": "Francesco",
           "played": 0,
           "wins": 0,
@@ -9962,7 +9962,7 @@
         "team_id": 1,
         "coach_name": "Francesco",
         "team_name": "Extraction Team",
-        "logo": "assets/logos/team_6_1.png"
+        "logo": "assets/logos/team_6_1.jpeg"
       }
     }
   ],
@@ -9988,7 +9988,7 @@
       "season_name": "2023/2024",
       "team_id": 3,
       "team_name": "Old Towers",
-      "logo": "assets/logos/team_6_3.png",
+      "logo": "assets/logos/team_6_3.jpeg",
       "coach_name": "Lorenzo"
     },
     {
@@ -10004,7 +10004,7 @@
       "season_name": "2020/2021",
       "team_id": 1,
       "team_name": "Extraction Team",
-      "logo": "assets/logos/team_6_1.png",
+      "logo": "assets/logos/team_6_1.jpeg",
       "coach_name": "Francesco"
     }
   ],
@@ -10024,13 +10024,13 @@
     {
       "team_id": 1,
       "name": "Extraction Team",
-      "logo": "assets/logos/team_6_1.png",
+      "logo": "assets/logos/team_6_1.jpeg",
       "titles": 1
     },
     {
       "team_id": 3,
       "name": "Old Towers",
-      "logo": "assets/logos/team_6_3.png",
+      "logo": "assets/logos/team_6_3.jpeg",
       "titles": 1
     }
   ]
